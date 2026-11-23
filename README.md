@@ -1,13 +1,13 @@
-# Data_Algorithm
+# python_data_lab
 
-Data algorithms in Python, with a focus on AI alignment.
+Data, automation in Python, with a focus on Dataset, algorithms, AI and it alignment.
 
 ## About
-A learning project where I implement data algorithms in Python and study how they connect to AI alignment: making AI systems act in line with human goals and values.
+A learning project where I implement data/algorithms in Python and study how they connect to dataset for Ai making AI systems act in line with human goals and values.
 
 ## What's inside
-- Python code for data algorithms (coming soon)
-- My report on AI alignment
+- Python code for data/automation of dataset and algorithms (coming soon)
+- My report on dataset
 
 ## Status
 Work in progress.
