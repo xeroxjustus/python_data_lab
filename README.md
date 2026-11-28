@@ -1,16 +1,20 @@
 # python_data_lab
 
-Data, automation in Python, with a focus on Dataset, algorithms, AI and it alignment. Ai is the future 
+Small Python tools that fix boring data problems.
 
-## About
-A learning project where I implement data/algorithms in Python and study how they connect to dataset for Ai making AI systems act in line with human goals and values.
+## us_ai_models.py
+Reads Epoch AI's AI models dataset and saves a table of American
+organizations, their models, release dates and parameter counts.
 
-## What's inside
-- Python code for data/automation of dataset and algorithms (coming soon)
-- My report on dataset
+How to use:
+1. Download the data: https://epoch.ai/data/all_ai_models.csv
+2. Save it as ai_models.csv in this folder
+3. Run: python us_ai_models.py
+4. Your table appears in us_ai_models.csv
 
-## Status
-Work in progress.
+## Data credit
+Data from Epoch AI (https://epoch.ai/data/notable-ai-models),
+licensed CC-BY 4.0.
 
-## Author
-Xerox Justus ([GitHub](https://github.com/xeroxjustus))
+## License
+MIT
