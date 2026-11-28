@@ -1,0 +1,1240 @@
+Organization,Model,Publication date,Parameters,Parameters (billions)
+ASAPP,SRU++ Large,2021-02-24,234000000.0,0.234
+ASAPP,SRU++ Base,2021-02-24,148000000.0,0.148
+ASAPP,SRU++ Large only 2 attention layers (k=5) (WT103),2021-02-24,225000000.0,0.225
+"ASAPP,Cornell University,Google,Princeton University",Transformer + Simple Recurrent Unit,2018-09-17,90000000.0,0.09
+AT&T,Handwritten digit recognition network,1989-11-27,2578.0,0.0
+AT&T,LeNet-5,1998-11-01,60000.0,0.0
+"AT&T,Bell Laboratories",Zip CNN,1989-12-01,9760.0,0.0
+"AT&T,Bell Laboratories",Support Vector Machines,1995-09-01,100000000.0,0.1
+Abacus AI,Smaug-34B,2024-07-03,34000000000.0,34.0
+Abacus AI,Smaug-72B,2024-07-03,72000000000.0,72.0
+Adept,Persimmon-8B,2023-09-07,9300000000.0,9.3
+Adept,Fuyu-8B,2023-10-17,8000000000.0,8.0
+Adept,Fuyu-Heavy,2024-01-24,100000000000.0,100.0
+Allen Institute for AI,SciBERT,2019-03-26,110000000.0,0.11
+Allen Institute for AI,Unicorn,2021-03-24,11000000000.0,11.0
+Allen Institute for AI,OLMo 1.7-7B,2024-04-17,7000000000.0,7.0
+Allen Institute for AI,OLMo 2 32B,2025-03-13,32000000000.0,32.0
+Allen Institute for AI,Olmo 3,2025-11-20,32000000000.0,32.0
+"Allen Institute for AI,Contextual AI,University of Washington,Princeton University",OLMoE,2024-09-03,7000000000.0,7.0
+"Allen Institute for AI,Facebook AI Research",Sandwich Transformer,2019-11-10,209000000.0,0.209
+"Allen Institute for AI,University of Washington",Transformer ELMo,2019-01-01,56000000.0,0.056
+"Allen Institute for AI,University of Washington",UnifiedQA,2020-05-02,11000000000.0,11.0
+"Allen Institute for AI,University of Washington",Specter,2020-05-20,110000000.0,0.11
+"Allen Institute for AI,University of Washington",Unified-IO (XL),2022-06-17,2925000000.0,2.925
+"Allen Institute for AI,University of Washington",Delphi,2022-07-12,11000000000.0,11.0
+"Allen Institute for AI,University of Washington",Tulu V2 DPO 70B,2023-11-20,70000000000.0,70.0
+"Allen Institute for AI,University of Washington",OLMo-7B,2024-02-01,7000000000.0,7.0
+"Allen Institute for AI,University of Washington",OLMo-1B,2024-02-01,1000000000.0,1.0
+"Allen Institute for AI,University of Washington",Molmo 72B,2024-09-25,72000000000.0,72.0
+"Allen Institute for AI,University of Washington",Tulu 3 (Tülu 3) 70B,2024-11-21,70000000000.0,70.0
+"Allen Institute for AI,University of Washington",Tulu 3 8B,2024-11-21,8000000000.0,8.0
+"Allen Institute for AI,University of Washington",Tulu 3 405B,2025-01-30,405000000000.0,405.0
+"Allen Institute for AI,University of Washington",MolmoAct-7B-D,2025-08-19,7000000000.0,7.0
+"Allen Institute for AI,University of Washington,Carnegie Mellon University (CMU),Stanford University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal,Princeton University,Massachusetts Institute of Technology (MIT),University of Maryland",Olmo 3 32B Instruct,2025-11-20,32000000000.0,32.0
+"Allen Institute for AI,University of Washington,Carnegie Mellon University (CMU),Stanford University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal,Princeton University,Massachusetts Institute of Technology (MIT),University of Maryland",Olmo 3 7B Think,2025-11-20,7000000000.0,7.0
+"Allen Institute for AI,University of Washington,Carnegie Mellon University (CMU),Stanford University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal,Princeton University,Massachusetts Institute of Technology (MIT),University of Maryland",Olmo 3.1 32B Think,2025-11-20,32000000000.0,32.0
+"Allen Institute for AI,University of Washington,National University of Singapore,University of Pennsylvania,Johns Hopkins University,Amazon,Cortex AI",MolmoAct 2,2026-04-05,5485309424.0,5.485
+"Allen Institute for AI,University of Washington,New York University (NYU)",OLMo 2 Furious 7B,2024-12-31,7000000000.0,7.0
+"Allen Institute for AI,University of Washington,New York University (NYU)",OLMo 2 Furious 13B,2024-12-31,13000000000.0,13.0
+Amazon,WeNet (WT2),2019-04-08,33000000.0,0.033
+Amazon,WeNet (PTB),2019-04-08,23000000.0,0.023
+Amazon,WeNet (Penn Treebank),2019-04-08,23000000.0,0.023
+Amazon,BERT-Large-CAS (PTB+WT2+WT103),2019-04-20,395000000.0,0.395
+Amazon,BERT-Large-CAS (WT103),2019-04-20,340000000.0,0.34
+Amazon,BERT-Large-CAS (WT2),2019-04-20,340000000.0,0.34
+Amazon,CTR-BERT,2021-12-06,70000000.0,0.07
+Amazon,AlexaTM 20B,2022-08-02,19750000000.0,19.75
+Amazon,Amazon Titan,2023-09-28,200000000000.0,200.0
+Anthrogen,Odyssey 102B,2025-10-18,102000000000.0,102.0
+Anthrogen,Odyssey 12B,2025-10-18,12000000000.0,12.0
+Anthrogen,Odyssey 1.2B,2025-10-18,1200000000.0,1.2
+Anthropic,Anthropic LM 52B,2022-04-12,52000000000.0,52.0
+Anthropic,Anthropic LM 175B,2023-02-15,175000000000.0,175.0
+Apple,MM1-30B,2024-03-14,30000000000.0,30.0
+Apple,ReALM,2024-03-29,3000000000.0,3.0
+Apple,MobileCLIP-B (LT),2024-04-01,149700000.0,0.15
+Apple,OpenELM-1.1B,2024-05-02,1080000000.0,1.08
+Apple,OpenELM-3B,2024-05-02,3040000000.0,3.04
+Apple,OpenELM-450M,2024-05-02,450000000.0,0.45
+Apple,OpenELM-270M,2024-05-02,270000000.0,0.27
+Apple,DCLM 7B,2024-07-20,7000000000.0,7.0
+Apple,AFM-on-device,2024-07-29,2730000000.0,2.73
+Apple,SimpleFold,2025-09-23,3000000000.0,3.0
+"Arc Institute,Stanford University,Nvidia,Liquid,University of California (UC) Berkeley,Goodfire,Columbia University,University of California San Francisco",Evo 2 40B,2025-02-19,40300000000.0,40.3
+"Arc Institute,Stanford University,Nvidia,Liquid,University of California (UC) Berkeley,Goodfire,Columbia University,University of California San Francisco",Evo 2 7B,2025-02-19,7000000000.0,7.0
+Arcee AI,Trinity Large Thinking,2026-04-01,398635286016.0,398.635
+BRIA AI,RMBG v2.0,2024-12-23,221000000.0,0.221
+BRIA AI,BRIA 3.1,2025-02-15,4000000000.0,4.0
+Baidu Research - Silicon Valley AI Lab,DeepSpeech2 (English),2015-12-08,38000000.0,0.038
+"Bangladesh University of Engineering and Technology,University of California Riverside",RNA-DCGen,2024-09-25,117000000.0,0.117
+"Bangladesh University of Engineering and Technology,University of California Riverside,Carnegie Mellon University (CMU)",BiRNA-BERT,2024-11-18,117000000.0,0.117
+"Basecamp Research,Technical University of Munich,Molecular Institute of Biology,Microsoft Research",HiFi - NN,2023-12-19,3000000.0,0.003
+"Beijing Academy of Artificial Intelligence / BAAI,Hugging Face",bge-reranker-large,2023-09-14,560000000.0,0.56
+Bell Laboratories,Theseus,1950-07-02,40.0,0.0
+Bell Laboratories,Boosting,1992-11-30,2578.0,0.0
+Bell Laboratories,Siamese-TDNN,1993-08-01,744.0,0.0
+"Bloomberg,Johns Hopkins University",BloombergGPT,2023-03-30,50558868480.0,50.559
+Boston University,Engine-XL(NE),2021-12-11,1500000000.0,1.5
+Boston University,Engine-Base (NE),2021-12-11,124000000.0,0.124
+Boston University,Engine-Medium(NE),2021-12-11,355000000.0,0.355
+Boston University,Platypus-70B,2023-08-14,70000000000.0,70.0
+"Brno University of Technology,Johns Hopkins University",KN5 LM + RNN 400/10 (WSJ),2010-09-26,22160000.0,0.022
+"Brno University of Technology,Johns Hopkins University",RNN 500/10 + RT09 LM (NIST RT05),2010-09-26,19250000.0,0.019
+"Brno University of Technology,Johns Hopkins University",RNN 1000/5 + RT09 LM (NIST RT05),2010-09-26,77039000.0,0.077
+"Brown University,Facebook",LaNet-L (CIFAR-10),2019-06-17,44100000.0,0.044
+"ByteDance,University of Wisconsin Madison",LM-Design,2023-07-23,6900000.0,0.007
+California Institute of Technology,Hopfield network,1982-04-01,9900.0,0.0
+"California Institute of Technology,University of Oxford",Bayesian object categorizer,2003-10-13,100.0,0.0
+Carnegie Mellon University (CMU),Distributed representation NN,1986-08-15,432.0,0.0
+Carnegie Mellon University (CMU),Translation-invariant MLP,1987-06-15,816.0,0.0
+Carnegie Mellon University (CMU),ALVINN,1989-12-01,36627.0,0.0
+Carnegie Mellon University (CMU),System 11,1996-06-18,6452.0,0.0
+Carnegie Mellon University (CMU),TC-DNN-BLSTM-DNN,2015-04-06,18413568.0,0.018
+Carnegie Mellon University (CMU),HR-ResNet101,2016-12-13,44500000.0,0.044
+Carnegie Mellon University (CMU),"AWD-LSTM-MoS + dynamic evaluation (WT2, 2017)",2017-11-10,35000000.0,0.035
+Carnegie Mellon University (CMU),"AWD-LSTM-MoS + dynamic evaluation (PTB, 2017)",2017-11-10,22000000.0,0.022
+Carnegie Mellon University (CMU),PolyCoder,2022-02-26,2700000000.0,2.7
+Carnegie Mellon University (CMU),AbGPT,2024-09-09,734000000.0,0.734
+"Carnegie Mellon University (CMU),Bosch Center for Artificial Intelligence,Intel Labs",TrellisNet,2018-10-15,180000000.0,0.18
+"Carnegie Mellon University (CMU),DeepMind",DARTS (second order) (PTB),2018-06-24,23000000.0,0.023
+"Carnegie Mellon University (CMU),Google",Noisy Student (L2),2019-11-11,480000000.0,0.48
+"Carnegie Mellon University (CMU),Google Brain",Transformer-XL (257M),2019-01-09,256999999.99999997,0.257
+"Carnegie Mellon University (CMU),Google Brain",Transformer-XL-ptb,2019-01-09,24000000.0,0.024
+"Carnegie Mellon University (CMU),Google Brain",XLNet,2019-06-01,340000000.0,0.34
+"Carnegie Mellon University (CMU),Google Brain",MobileBERT,2020-04-06,25300000.0,0.025
+"Carnegie Mellon University (CMU),Intel Labs",TCN (148M),2018-02-15,148000000.0,0.148
+"Carnegie Mellon University (CMU),Intel Labs",TCN (13M),2018-02-15,13000000.0,0.013
+"Carnegie Mellon University (CMU),Intel Labs",TCN (P-MNIST),2018-02-15,42000.0,0.0
+"Carnegie Mellon University (CMU),Intel Labs","DEQ-Transformer (Medium, Adaptive Embedding)",2019-09-03,110000000.00000001,0.11
+"Carnegie Mellon University (CMU),Intel Labs",DEQ-TrellisNet (PTB),2019-09-03,24000000.0,0.024
+"Carnegie Mellon University (CMU),Intel Labs",DEQ-TrellisNet (WT-103),2019-09-03,180000000.0,0.18
+"Carnegie Mellon University (CMU),Intel Labs",DEQ-Transformer (Post-LN) + Jacobian Regularisation,2021-06-28,98000000.0,0.098
+"Carnegie Mellon University (CMU),Intel Labs,Bosch Center for Artificial Intelligence",TrellisNet-MoS (1.4x larger) PTB,2018-10-15,34000000.0,0.034
+"Carnegie Mellon University (CMU),Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),Cartesia",Hybrid-Phi-Mamba-1.5B,2024-08-19,1500000000.0,1.5
+"Carnegie Mellon University (CMU),Princeton University",Mamba-24M (SC09),2023-12-01,23400000.0,0.023
+"Carnegie Mellon University (CMU),Princeton University",Mamba-2.8B,2023-12-01,2800000000.0,2.8
+"Carnegie Mellon University (CMU),Princeton University,Cartesia,Together",Mamba-3 880M,2025-09-18,893000000.0,0.893
+"Carnegie Mellon University (CMU),Princeton University,Cartesia,Together",Mamba-3 1.5B,2025-09-18,1490000000.0,1.49
+"Carnegie Mellon University (CMU),Princeton University,Cartesia,Together",Mamba-3 440M,2025-09-18,443000000.0,0.443
+"Carnegie Mellon University (CMU),Princeton University,Cartesia,Together",Mamba-3 180M,2025-09-18,187000000.0,0.187
+"Carnegie Mellon University (CMU),University of California San Diego",NLM,2021-09-09,247000512.0,0.247
+Cerebras Systems,Sparse Wide GPT-3 Small,2023-03-21,1300000000.0,1.3
+Cerebras Systems,Cerebras-GPT-13B,2023-04-06,13000000000.0,13.0
+Cerebras Systems,BTLM-3B,2023-09-20,2600000000.0,2.6
+"Cerebras Systems,Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),Inception G42",Jais,2023-08-29,13000000000.0,13.0
+"Cerebras Systems,Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),Inception G42,G42",Jais-30b (phase 1),2023-11-08,30000000000.0,30.0
+"Chandar Research Lab,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Amgen,Polytechnique Montreal,CIFAR AI Research",AMPLIFY,2024-09-23,350000000.0,0.35
+Character.ai,Kaiju Large,2025-11-07,110000000000.0,110.0
+Character.ai,Kaiju Medium,2025-11-07,34000000000.0,34.0
+Character.ai,Kaiju Small,2025-11-07,13000000000.0,13.0
+"China Mobile,Zero Gravity Labs (0g AI)",DiLoCoX (Qwen1.5-107B on WT-103),2025-06-26,107000000000.0,107.0
+"Chinese Academy of Sciences,Michigan State University",3DDFA,2015-11-23,5355584.0,0.005
+Cisco,Foundation-sec-8b,2025-04-28,8000000000.0,8.0
+Cognition,SWE-1.5,2025-10-29,300000000000.0,300.0
+Cognition,SWE-2,2026-09-10,2800000000000.0,2800.0
+Cognition,SWE-2 Flash,2026-11-04,276000000000.0,276.0
+"Cognition,Stanford University",Kevin-32B,2025-05-06,32000000000.0,32.0
+"Cohere Labs (formerly Cohere for AI),Brown University,Cohere,Carnegie Mellon University (CMU),Massachusetts Institute of Technology (MIT)",Aya,2024-02-12,13000000000.0,13.0
+Columbia University,Genie-SCOPe (bio),2023-01-29,4100000.0,0.004
+"Columbia University,Apple",Ferret (13B),2023-10-11,13000000000.0,13.0
+"Columbia University,New York University (NYU),Princeton University",Dropout-LSTM+Noise(Bernoulli) (WT2),2018-05-03,51000000.0,0.051
+"Columbia University,New York University (NYU),Princeton University",LSTM+Noise(Beta),2018-05-03,51000000.0,0.051
+"Columbia University,New York University (NYU),Princeton University",AWD-LSTM-MoS+Noisin+dynamic evaluation (PTB),2018-05-03,22000000.0,0.022
+"Columbia University,New York University (NYU),Princeton University",Dropout-LSTM+Noise(Laplace) - medium (WT2),2018-05-03,13000000.0,0.013
+"Columbia University,New York University (NYU),Princeton University",Dropout-LSTM+Noise(Bernoulli) - large(PTB),2018-05-03,51000000.0,0.051
+"Columbia University,Rutgers University",Genie 2 (bio),2024-05-24,15700000.0,0.016
+"Contextual AI,The University of Hong Kong,Microsoft",GRITLM 7B,2024-04-17,7240000000.0,7.24
+"Contextual AI,The University of Hong Kong,Microsoft",GRITLM 8x7B,2024-04-17,46700000000.0,46.7
+Cornell Aeronautical Laboratory,Perceptron (1960),1960-03-30,1000.0,0.0
+"Cornell Aeronautical Laboratory,Cornell University",Perceptron Mark I,1957-01-01,1000.0,0.0
+Cornell University,CD-GraB (WT103),2023-02-02,6846080.0,0.007
+Courant Institute of Mathematical Sciences,Hybrid CNN/SVM Object Categorizer,2006-06-17,3590057.0,0.004
+Courant Institute of Mathematical Sciences,Long-Range Autonomous Off-Road Driving System,2009-01-08,12410.0,0.0
+Courant Institute of Mathematical Sciences,ConvNet Processor,2009-08-31,14423.0,0.0
+Covariant,RFM-1,2024-03-11,8000000000.0,8.0
+Cursor,Composer 2,2026-03-19,1040000000000.0,1040.0
+Cursor,Composer 2.5,2026-05-18,1040000000000.0,1040.0
+Databricks,Dolly 2.0-12b,2023-04-12,12000000000.0,12.0
+Databricks,MosaicML Diffusion,2023-04-28,1289952427.0,1.29
+Databricks,DBRX,2024-03-27,132000000000.0,132.0
+"DeepMind,Carnegie Mellon University (CMU)",DARTS,2018-06-24,33000000.0,0.033
+"DeepMind,University of California (UC) Berkeley",CPC v2,2019-05-22,303000000.0,0.303
+"DeepMind,University of Oxford,Carnegie Mellon University (CMU),Google Brain",Hanabi 4 player,2019-02-01,764000.0,0.001
+"DeepScale,University of California (UC) Berkeley,Stanford University",SqueezeNet,2016-02-24,1200000.0,0.001
+"Duke University,Cornell University,McMaster University",PepMLM,2024-08-11,3000000000.0,3.0
+"Duke University,Microsoft",ISS,2017-09-15,11100000.000000002,0.011
+"Duke University,University of Chinese Academy of Sciences",OR-WideResNet,2017-01-07,18200000.0,0.018
+"ETH Zurich,DeepMind,Google,Technical University of Munich",SILC-S* (86M),2023-10-20,86000000.0,0.086
+"ETH Zurich,DeepMind,Google,Technical University of Munich",SILC-S,2023-10-20,86000000.0,0.086
+"ETH Zurich,Disney Research",DiT-XL/2 + CADS,2023-10-26,675000000.0,0.675
+Earth Species Project,NatureLM-audio,2024-11-11,665000000.0,0.665
+EleutherAI,GPT-Neo-2.7B,2021-03-21,2700000000.0,2.7
+EleutherAI,GPT-Neo-2.7B (finetuned),2021-03-21,2700000000.0,2.7
+EleutherAI,GPT-Neo-2.7B (finetuned on PTB),2021-03-21,2700000000.0,2.7
+EleutherAI,GPT-Neo-125M,2021-03-21,125000000.0,0.125
+EleutherAI,GPT-Neo-1.3B,2021-03-21,1300000000.0,1.3
+EleutherAI,GPT-Neo-125M (finetuned),2021-03-21,125000000.0,0.125
+EleutherAI,GPT-Neo-1.3B (finetuned),2021-03-21,1300000000.0,1.3
+EleutherAI,GPT-NeoX-20B,2022-02-09,20000000000.0,20.0
+EleutherAI,Polyglot-Ko-12.8B,2023-06-04,12898631680.0,12.899
+"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",Pythia-12b,2023-04-03,12000000000.0,12.0
+"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",Pythia-2.8b,2023-04-03,2800000000.0,2.8
+"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",Pythia-6.9b,2023-04-03,6900000000.0,6.9
+"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",Pythia-160m,2023-04-03,160000000.0,0.16
+"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",Pythia-1b,2023-04-03,1000000000.0,1.0
+"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",Pythia-1.4b,2023-04-03,1400000000.0,1.4
+"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",Pythia-70m,2023-04-03,70000000.0,0.07
+"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",Pythia-410m,2023-04-03,410000000.0,0.41
+"EleutherAI,LAION",GPT-J-6B,2021-05-01,6053381344.0,6.053
+Equall.ai,SaulLM-large,2024-07-28,141000000000.0,141.0
+"EvolutionaryScale,University of California (UC) Berkeley",ESM3 (98B),2024-06-25,98500000000.0,98.5
+"EvolutionaryScale,University of California (UC) Berkeley",ESM3-open-small,2024-06-25,1400000000.0,1.4
+"FPT Software AI Center,University of California Los Angeles (UCLA),VinUniversity,Deezer Research,Rice University,University of Texas at Austin",MGK 4 heads (medium),2021-10-16,90000000.0,0.09
+"FPT Software AI Center,University of California Los Angeles (UCLA),VinUniversity,Deezer Research,Rice University,University of Texas at Austin",MGK 8 heads (small),2021-10-16,40000000.0,0.04
+Facebook,ResNeXt-101 32x48d,2018-05-02,829000000.0,0.829
+Facebook,XLM,2019-06-01,665000000.0,0.665
+Facebook,Transformer - LibriVox + Decoding/Rescoring,2019-11-19,296000000.0,0.296
+Facebook,DETR,2020-05-26,60000000.0,0.06
+Facebook,wave2vec 2.0 LARGE,2020-10-22,317000000.0,0.317
+Facebook,DLRM-2022,2021-09-15,3000000000000.0,3000.0
+Facebook AI,ResNet-50 Billion-scale,2019-05-02,25000000.0,0.025
+Facebook AI,ResNeXt-101 Billion-scale,2019-05-02,193000000.0,0.193
+Facebook AI,DLRM-2020,2019-05-31,100000000000.0,100.0
+Facebook AI,FixRes ResNeXt-101 WSL,2019-06-14,829000000.0,0.829
+Facebook AI,BART-large,2019-10-29,406291456.0,0.406
+Facebook AI,XLM-RoBERTa,2019-11-05,550000000.0,0.55
+Facebook AI,MoCo,2019-11-13,375000000.0,0.375
+Facebook AI,mBART-50,2020-08-02,610000000.0,0.61
+Facebook AI Research,SCRN (Structurally Constrained Recurrent Network),2014-12-24,26500000.0,0.026
+Facebook AI Research,Stack RNN,2015-03-03,2009999.9999999998,0.002
+Facebook AI Research,Neural cache model (size=2000) (300M),2016-12-13,300000000.0,0.3
+Facebook AI Research,RetinaNet-R50,2017-08-07,34000000.0,0.034
+Facebook AI Research,RetinaNet-R101,2017-08-07,53000000.0,0.053
+Facebook AI Research,Transformer (Adaptive Input Embeddings) WT103,2018-09-28,247000000.0,0.247
+Facebook AI Research,All-attention network + adaptive span,2019-07-02,133000000.0,0.133
+Facebook AI Research,Generative BST,2021-03-05,9431810048.0,9.432
+Facebook AI Research,HuBERT,2021-07-27,1000000000.0,1.0
+Facebook AI Research,XLMR-XXL,2021-08-17,10700000000.0,10.7
+Facebook AI Research,Masked Autoencoders ViT-H,2021-11-11,632000000.0,0.632
+Facebook AI Research,Voicebox / VB-En,2023-10-19,358000000.0,0.358
+Facebook AI Research,Multi-Token Prediction 7B,2024-04-30,6700000000.0,6.7
+Facebook AI Research,Multi-Token Prediction 13B,2024-04-30,13000000000.0,13.0
+Facebook AI Research,Chameleon-34B,2024-05-16,34000000000.0,34.0
+Facebook AI Research,FragLlama: Next-fragment prediction for molecular design,2024-05-16,7000000000.0,7.0
+Facebook AI Research,V-JEPA 2,2025-06-11,1000000000.0,1.0
+"Facebook AI Research,Brown University",AlphaX-1,2019-10-02,5400000.0,0.005
+"Facebook AI Research,Georgia Institute of Technology",6-Act Tether,2021-08-03,5000000.0,0.005
+"Facebook AI Research,Google Brain",FAIRSEQ Adaptive Inputs,2019-04-01,247000000.00000003,0.247
+"Facebook AI Research,INRIA",SEER,2021-07-29,1300000000.0,1.3
+"Facebook AI Research,INRIA",DINOv2,2023-04-14,1140000000.0,1.14
+"Facebook AI Research,LORIA",Adaptive Inputs + LayerDrop,2019-09-25,423000000.00000006,0.423
+"Facebook AI Research,New York University (NYU)",ESM1-670M (UR50/S),2020-08-31,669200000.0,0.669
+"Facebook AI Research,New York University (NYU)",ESM1-670M (UR50/D),2020-08-31,669200000.0,0.669
+"Facebook AI Research,New York University (NYU)",ESM1-670M (UR100),2020-08-31,669200000.0,0.669
+"Facebook AI Research,New York University (NYU)",ESM1-85M,2020-08-31,85100000.0,0.085
+"Facebook AI Research,New York University (NYU)",ESM1-43M,2020-08-31,42600000.0,0.043
+"Facebook AI Research,New York University (NYU)",ESM1b,2020-12-15,652400000.0,0.652
+"Facebook AI Research,New York University (NYU),University of California (UC) Berkeley",ESM1v,2021-11-17,650000000.0,0.65
+"Facebook AI Research,University of California (UC) Berkeley,New York University (NYU)",MSA Transformer,2021-02-13,100000000.0,0.1
+"Facebook AI Research,University of Le Mans",VDCNN (on Amazon Review Full dataset),2017-01-27,7800000.0,0.008
+"Facebook AI Research,University of Washington,University of California (UC) Berkeley,Carnegie Mellon University (CMU),Toyota Technological Institute at Chicago",Incoder-6.7B,2023-04-09,6700000000.0,6.7
+"Facebook,INRIA,Sorbonne University",CamemBERT,2019-11-10,335000000.0,0.335
+"Facebook,INRIA,University of California (UC) Berkeley",SeamlessM4T,2023-12-08,2300000000.0,2.3
+"Facebook,New York University (NYU),University College London (UCL)",Retrieval-Augmented Generator,2020-05-22,626000000.0,0.626
+"Facebook,University of Washington",RoBERTa Large,2019-07-01,355000000.0,0.355
+"Facebook,University of Washington",RoBERTa Base,2019-07-01,125000000.0,0.125
+Figure AI,Helix,2025-02-20,7080000000.0,7.08
+Fish Audio,OpenAudio-S1,2025-06-03,4000000000.0,4.0
+Fish Audio,OpenAudio-S1-mini,2025-06-03,500000000.0,0.5
+"Fudan University,University of Maryland",LLaVA + LVIS-INSTRUCT4V,2023-11-13,13000000000.0,13.0
+FutureHouse,ether0,2025-06-05,24000000000.0,24.0
+Generalist,Gen-0,2025-11-04,10000000000.0,10.0
+Genmo,Mochi 1,2024-10-22,10000000000.0,10.0
+George Washington University,MoEFold2D,2024-09-22,960000.0,0.001
+Ginkgo Bioworks,MLDD3UTRmRRNAS,2024-10-07,44000000.0,0.044
+Google,SB-LM,2007-06-22,300000000000.0,300.0
+Google,KN-LM,2007-06-22,21000000000.0,21.0
+Google,Conditional Maximum Entropy Model (Gigaworld),2009-07-01,1000000.0,0.001
+Google,Unsupervised High-level Feature Learner,2012-07-12,1000000000.0,1.0
+Google,DistBelief Speech,2012-12-03,47185920.0,0.047
+Google,DistBelief Vision,2012-12-03,1700000000.0,1.7
+Google,Multilingual DNN,2013-05-26,206899200.0,0.207
+Google,Word2Vec (small),2013-10-16,207600000.0,0.208
+Google,Word2Vec (large),2013-10-16,692000000.0,0.692
+Google,RNN for 1B words,2013-12-11,20000000000.0,20.0
+Google,Paragraph Vector,2014-05-14,32000000.0,0.032
+Google,Seq2Seq LSTM,2014-09-10,1920000000.0,1.92
+Google,SNM-skip,2014-12-03,62000000000.0,62.0
+Google,DQN-2015,2015-02-25,1693362.0,0.002
+Google,BatchNorm,2015-06-15,13600000.0,0.014
+Google,Search-Proven Best LSTM,2015-07-06,20000000.0,0.02
+Google,Inception-ResNet-V2,2016-02-23,56000000.0,0.056
+Google,Inceptionv4,2016-02-23,43000000.0,0.043
+Google,GNMT,2016-09-26,278000000.0,0.278
+Google,Xception,2016-10-07,22855952.0,0.023
+Google,MobileNet,2017-04-17,4200000.0,0.004
+Google,MobileNetV2,2018-06-18,3400000.0,0.003
+Google,BERT-Large,2018-10-11,340000000.0,0.34
+Google,MetaMimic,2018-10-11,22000000.0,0.022
+Google,GPipe (Transformer),2018-11-16,6000000000.0,6.0
+Google,GPipe (Amoeba),2018-11-16,557000000.0,0.557
+Google,EfficientNet-L2,2019-05-28,480000000.0,0.48
+Google,EfficientNet-B1,2019-05-28,7800000.0,0.008
+Google,MnasNet-A3,2019-05-29,5200000.0,0.005
+Google,MnasNet-A1 + SSDLite,2019-05-29,4900000.0,0.005
+Google,BigBiGAN,2019-07-04,86000000.0,0.086
+Google,M4-50B,2019-10-11,50000000000.0,50.0
+Google,T5-3B,2019-10-23,2800000000.0,2.8
+Google,T5-11B,2019-10-23,11000000000.0,11.0
+Google,FFN SwiGLU,2020-02-14,220000000.0,0.22
+Google,MetNet,2020-03-24,225000000.0,0.225
+Google,ContextNet,2020-05-07,112700000.0,0.113
+Google,Conformer,2020-05-16,118800000.0,0.119
+Google,GShard (dense),2020-06-30,2300000000.0,2.3
+Google,GShard (600B),2020-06-30,600000000000.0,600.0
+Google,Switch,2021-01-11,1571000000000.0,1571.0
+Google,BASIC-L,2021-11-19,3070000000.0,3.07
+Google,GLaM,2021-12-13,1200000000000.0,1200.0
+Google,LaMDA,2022-02-10,137000000000.0,137.0
+Google,LIMoE-H/14,2022-06-06,5600000000.0,5.6
+Google,BIG-G 137B,2022-06-09,137000000000.0,137.0
+Google,Minerva (540B),2022-06-29,540350000000.0,540.35
+Google,PaLM-SayCan,2022-08-16,540000000000.0,540.0
+Google,PaLI,2022-09-14,16900000000.0,16.9
+Google,U-PaLM (540B),2022-10-20,540000000000.0,540.0
+Google,Flan-PaLM 540B,2022-10-20,540000000000.0,540.0
+Google,Flan-T5 11B,2022-10-20,11000000000.0,11.0
+Google,RT-1,2022-12-13,35000000.0,0.035
+Google,MusicLM,2023-01-26,860000000.0,0.86
+Google,ViT-22B,2023-02-10,21743000000.0,21.743
+Google,PaLM 2,2023-05-10,340000000000.0,340.0
+Google,Chirp,2023-06-27,2000000000.0,2.0
+Google,Gemma 1.1 7B Instruct,2024-02-24,8540000000.0,8.54
+Google,DataGemma,2024-09-12,27200000000.0,27.2
+Google,PaliGemma 2 3B Mix 224,2025-02-19,2920000000.0,2.92
+Google,PaliGemma 2 3B Mix 448,2025-02-19,2920000000.0,2.92
+Google,MedGemma 27B,2025-05-20,27000000000.0,27.0
+Google,Gemma 3n,2025-05-20,7850000000.0,7.85
+Google,MedSigLIP,2025-07-09,800000000.0,0.8
+Google AI,RNMT+,2018-04-26,378900000.0,0.379
+Google Brain,BIG LSTM+CNN INPUTS,2016-02-11,1040000000.0,1.04
+Google Brain,10 LSTMS + KN-5 (OPTIMAL WEIGHTS),2016-02-11,1040000000.0,1.04
+Google Brain,NASv3 (CIFAR-10),2016-11-05,37400000.0,0.037
+Google Brain,NAS with base 8 and shared embeddings,2016-11-05,54000000.0,0.054
+Google Brain,NASNet-A,2017-07-21,89000000.0,0.089
+Google Brain,CapsNet (MultiMNIST),2017-10-26,11360000.0,0.011
+Google Brain,CapsNet (MNIST),2017-10-26,8200000.0,0.008
+Google Brain,AmoebaNet-A (F=448),2018-02-05,469000000.0,0.469
+Google Brain,AmoebaNet-A (F=190),2018-02-05,87000000.0,0.087
+Google Brain,Mesh-TensorFlow Transformer 4.9B (language),2018-11-05,4900000000.0,4.9
+Google Brain,Mesh-TensorFlow Transformer 2.9B (translation),2018-11-05,2900000000.0,2.9
+Google Brain,Big Transfer (BiT-L),2019-12-24,928000000.0,0.928
+Google Brain,Big Transfer (BiT-M),2019-12-24,928000000.0,0.928
+Google Brain,Meena,2020-01-28,2600000000.0,2.6
+Google Brain,SimCLR,2020-02-13,375000000.0,0.375
+Google Brain,EfficientDet,2020-07-27,77000000.0,0.077
+Google Brain,ViT-Base/32,2020-10-22,86000000.0,0.086
+Google Brain,SimCLRv2,2020-10-26,795000000.0,0.795
+Google Brain,Primer (GPT-3 XL-like 1.9B),2022-01-24,1900000000.0,1.9
+Google Brain,Imagen,2022-05-23,7762000000.0,7.762
+Google Brain,Imagen Video,2022-10-05,11600000000.0,11.6
+Google Brain,Flan UL2,2023-03-03,19500000000.0,19.5
+"Google Brain,Carnegie Mellon University (CMU)",Transformer-XL + AutoDropout (WT2),2021-01-05,35000000.0,0.035
+"Google Brain,Carnegie Mellon University (CMU),Stanford University",ENAS,2018-02-09,24000000.0,0.024
+"Google Brain,DeepMind",SPN (ImageNet 128),2018-12-04,250000000.0,0.25
+"Google Brain,DeepMind",SPN (CelebA HQ),2018-12-04,50000000.0,0.05
+"Google Brain,Google AI",Meta Pseudo Labels,2021-03-01,480000000.0,0.48
+"Google Brain,Google Research",ViT-Huge/14,2020-10-22,632000000.0,0.632
+"Google Brain,Google Research",ViT-G/14,2021-06-08,1843000000.0,1.843
+"Google Brain,Massachusetts Institute of Technology (MIT)",W2v-BERT,2021-08-07,1000000000.0,1.0
+"Google Brain,University of California (UC) Berkeley",QT-Opt,2018-06-27,1200000.0,0.001
+"Google Brain,University of California (UC) Berkeley",ResNet-RS,2021-03-13,192000000.0,0.192
+"Google Cloud,Google Research",Transformer local-attention (NesT-B),2021-05-26,90100000.0,0.09
+Google DeepMind,Double DQN,2016-03-02,1500000.0,0.002
+Google DeepMind,Dueling DQN,2016-04-05,1700000.0,0.002
+Google DeepMind,Attend-Infer-Repeat,2016-08-12,82130304.0,0.082
+Google DeepMind,SigLIP 400M,2023-03-27,400000000.0,0.4
+Google DeepMind,RT-2,2023-07-28,55000000000.0,55.0
+Google DeepMind,AlphaMissense,2023-09-22,93000000.0,0.093
+Google DeepMind,RT-2-X,2023-10-13,55000000000.0,55.0
+Google DeepMind,GNoME for crystal discovery,2023-11-29,16240000.0,0.016
+Google DeepMind,SARA-RT-2,2023-12-04,5000000000.0,5.0
+Google DeepMind,FunSearch,2023-12-14,15000000000.0,15.0
+Google DeepMind,Gemini Nano-2,2023-12-19,3250000000.0,3.25
+Google DeepMind,Gemini Nano-1,2023-12-19,1800000000.0,1.8
+Google DeepMind,RT-1 + AutoRT,2024-01-04,35000000.0,0.035
+Google DeepMind,Gemma 7B,2024-02-21,8538074112.0,8.538
+Google DeepMind,Gemma 2B,2024-02-21,2506434560.0,2.506
+Google DeepMind,Genie,2024-02-23,10700000000.0,10.7
+Google DeepMind,Griffin,2024-02-29,14000000000.0,14.0
+Google DeepMind,Hawk,2024-02-29,7000000000.0,7.0
+Google DeepMind,Gemini 1.5 Flash 8B,2024-05-10,8000000000.0,8.0
+Google DeepMind,Gemma 2 9B,2024-06-24,9000000000.0,9.0
+Google DeepMind,Gemma 2 27B,2024-06-24,27000000000.0,27.0
+Google DeepMind,Gemma 2 2B,2024-06-24,2600000000.0,2.6
+Google DeepMind,PaliGemma,2024-07-10,3000000000.0,3.0
+Google DeepMind,AlphaProof,2024-07-25,3000000000.0,3.0
+Google DeepMind,Table Tennis Agent,2024-08-07,185000.0,0.0
+Google DeepMind,3-ensemble of Self-ensembles on CIFAR-100,2024-08-08,60200000.0,0.06
+Google DeepMind,ALOHA Unleashed,2024-09-08,217000000.0,0.217
+Google DeepMind,SigLIP 2,2025-02-20,1140000000.0,1.14
+Google DeepMind,Gemma 3 27B,2025-03-12,27000000000.0,27.0
+Google DeepMind,Gemma 3 12B,2025-03-12,12000000000.0,12.0
+Google DeepMind,Gemma 3 4B,2025-03-12,4000000000.0,4.0
+Google DeepMind,Gemma 3 1B,2025-03-12,1000000000.0,1.0
+Google DeepMind,T5Gemma (Gemma 9B-9B),2025-04-08,16700000000.0,16.7
+Google DeepMind,Gemma 3 QAT 4B,2025-04-18,4000000000.0,4.0
+Google DeepMind,Gemma 3 QAT 1B,2025-04-18,1000000000.0,1.0
+Google DeepMind,Gemma 3 QAT 12B,2025-04-18,12000000000.0,12.0
+Google DeepMind,Gemma 3 QAT 27B,2025-04-18,27000000000.0,27.0
+Google DeepMind,DataRater test model (1B),2025-05-23,1000000000.0,1.0
+Google DeepMind,FGN,2025-06-12,720000000.0,0.72
+Google DeepMind,AlphaGenome,2025-06-25,450000000.0,0.45
+Google DeepMind,Gemma 3 270M,2025-08-14,270000000.0,0.27
+Google DeepMind,EmbeddingGemma,2025-09-05,308000000.0,0.308
+Google DeepMind,Gemma 4 31B IT,2026-04-02,31000000000.0,31.0
+Google DeepMind,Gemma 4 26B A4B,2026-04-02,25200000000.0,25.2
+Google DeepMind,Gemma 4 12B,2026-06-03,11950000000.0,11.95
+Google DeepMind,Gemma 4 E4B,2026-07-02,8000000000.0,8.0
+Google DeepMind,Gemma 4 E2B,2026-07-02,1946000000.0,1.946
+"Google DeepMind,Georgia Institute of Technology,Wild Dolphin Project",DolphinGemma,2025-04-14,400000000.0,0.4
+"Google DeepMind,Google",RoboCat,2023-06-20,1180000000.0,1.18
+"Google DeepMind,Google",AlphaEarth Foundations (AEF),2025-07-30,480000000.0,0.48
+"Google DeepMind,Google Research",MADLAD-400 10B,2023-09-09,10700000000.0,10.7
+"Google DeepMind,Google Research",TxGemma 27B,2025-04-08,27000000000.0,27.0
+"Google DeepMind,Google Research",TxGemma 9B,2025-04-08,9000000000.0,9.0
+"Google DeepMind,Google Research",TxGemma 2B,2025-04-08,2600000000.0,2.6
+"Google DeepMind,Google Research",AMIE (Articulate Medical Intelligence Explorer),2025-04-09,340000000000.0,340.0
+"Google DeepMind,Google Research,Google Cloud",PaLI-3,2023-10-17,5000000000.0,5.0
+"Google DeepMind,McGill University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",Mixture-of-Depths,2024-04-02,3000000000.0,3.0
+"Google DeepMind,New York University (NYU)",AlphaGeometry,2024-01-17,151000000.0,0.151
+Google Research,Routing Transformer (WT-103),2020-03-12,79500000.0,0.08
+Google Research,Transformer-XL + AutoDropout (PTB),2021-01-05,24000000.0,0.024
+Google Research,ALIGN,2021-06-11,820000000.0,0.82
+Google Research,FLAN 137B,2021-09-03,137000000000.0,137.0
+Google Research,ViT-G/14 (LiT),2021-11-15,3005000000.0,3.005
+Google Research,LongT5,2021-12-15,3000000000.0,3.0
+Google Research,MaskGIT (ImageNet),2022-02-08,227000000.0,0.227
+Google Research,PaLM (540B),2022-04-04,540350000000.0,540.35
+Google Research,CoCa,2022-06-14,2100000000.0,2.1
+Google Research,Parti,2022-06-22,20000000000.0,20.0
+Google Research,Transformer-XL + FWL,2022-12-05,256999999.99999997,0.257
+Google Research,PaLI-X,2023-05-29,55000000000.0,55.0
+Google Research,AudioLM,2023-07-26,1500000000.0,1.5
+Google Research,GQA-8-XXL,2023-12-23,11000000000.0,11.0
+Google Research,Derm Foundational Model,2024-03-08,928000000.0,0.928
+"Google Research,Carnegie Mellon University (CMU)",JFT,2017-07-10,44654504.0,0.045
+"Google Research,Carnegie Mellon University (CMU),Google DeepMind",VideoPoet,2023-12-21,8000000000.0,8.0
+"Google Research,Cornell University,Naturalis Biodiversity Center,Chemnitz University of Technology",Bird Vocalization Classifier (Perch),2023-12-18,7800000.0,0.008
+"Google Research,DeepMind",Med-PaLM 2,2023-05-16,340000000000.0,340.0
+"Google Research,Google Brain",Transformer,2017-06-12,213000000.0,0.213
+"Google Research,Google Brain",UL2,2022-05-10,20000000000.0,20.0
+"Google Research,National Library of Medicine,DeepMind",Med-PaLM,2023-07-12,540000000000.0,540.0
+"Google Research,University of Cambridge",Pix2Struct-Large,2023-06-15,1300000000.0,1.3
+"Google Research,Yale University,Google DeepMind,Brown University,University of Southern California",C2S-Scale,2025-10-11,27000000000.0,27.0
+"Google,Apple",BigSSL,2021-01-10,8000000000.0,8.0
+"Google,Bar-Ilan University",NMT Transformer 437M,2019-02-28,437700000.0,0.438
+"Google,Dartmouth College",Instruct-GPT + Mind's Eye,2022-10-11,176500000000.0,176.5
+"Google,Google Brain",EfficientNetV2-XL,2021-06-23,208000000.0,0.208
+"Google,Google Brain,Google Research",ST-MoE,2022-02-17,269000000000.0,269.0
+"Google,Google Research",mT5-XXL,2020-10-20,13000000000.0,13.0
+"Google,Google Research",ByT5-XXL,2021-05-28,12900000000.0,12.9
+"Google,Google Research,Google Brain",Conformer + Wav2vec 2.0 + Noisy Student,2020-10-20,1000000000.0,1.0
+"Google,Google Research,Google Brain",CoAtNet,2021-06-09,2440000000.0,2.44
+"Google,National Tsing Hua University",CT-MoS (WT2),2020-12-25,45000000.0,0.045
+"Google,Stanford University",Multiresolution CNN,2014-06-23,126125568.0,0.126
+"Google,TU Berlin",PaLM-E,2023-03-06,562000000000.0,562.0
+"Google,University College London (UCL)",Inception v3,2015-12-02,23626728.0,0.024
+"Google,University of California Los Angeles (UCLA)",BASIC-L + Lion,2023-02-13,3070000000.0,3.07
+"Google,University of Illinois Urbana-Champaign (UIUC)",LMSI-Palm,2022-10-20,540000000000.0,540.0
+"Google,University of Michigan,University of North Carolina",GoogLeNet / InceptionV1,2014-09-17,6797700.0,0.007
+"Google,University of Toronto,New York University (NYU)",ReLU-Speech,2013-05-26,101706240.0,0.102
+Gray Swan,Cygnet,2024-07-16,8000000000.0,8.0
+"Griffith University,University of Iowa,Dezhou University",SPIDER2,2016-10-28,409536.0,0.0
+"Harvard Medical School,University of Oxford",Eve,2021-10-27,15010300.0,0.015
+Harvard University,SNARC,1952-01-08,40.0,0.0
+Harvard University,Knowledge distillation student model,2016-09-22,84000000.0,0.084
+Harvard University,UniRep,2019-03-26,18200000.0,0.018
+Harvard University,1-layer-LSTM,2020-07-13,86500000.0,0.086
+Harvard University,gLM,2023-04-08,1000000000.0,1.0
+Harvard University,PlasmidGPT,2024-10-01,110000000.0,0.11
+"Harvard University,New York University (NYU)",LSTM-Char-Large,2015-08-26,19000000.0,0.019
+"Hebrew University of Jerusalem,Ben-Gurion University of the Negev,Deep Trading",ProteinBERT,2022-02-10,16000000.0,0.016
+"Heidelberg University,Runway",LDM-1.45B,2021-12-20,1450000000.0,1.45
+Hugging Face,DistilBERT,2019-10-02,66000000.0,0.066
+Hugging Face,BLOOMZ-176B,2022-11-03,176000000000.0,176.0
+Hugging Face,IDEFICS-80B,2023-08-22,80000000000.0,80.0
+Hugging Face,IDEFICS-9B,2023-08-22,9000000000.0,9.0
+Hugging Face,Zephyr 7B,2023-10-25,7000000000.0,7.0
+"Hugging Face,BigScience",BLOOM-7.1B,2022-07-05,7070000000.0,7.07
+"Hugging Face,BigScience",BLOOM-1.7B,2022-07-05,1700000000.0,1.7
+"Hugging Face,BigScience",BLOOM-560M,2022-07-05,560000000.0,0.56
+"Hugging Face,BigScience",BLOOM-1B,2022-07-05,1000000000.0,1.0
+"Hugging Face,BigScience",BLOOM-3B,2022-07-05,3000000000.0,3.0
+"Hugging Face,BigScience",BLOOM-176B,2022-07-11,176247271424.0,176.247
+"Hugging Face,BigScience",mT0-13B,2022-11-03,13000000000.0,13.0
+"Hugging Face,Brown University",T0-XXL,2021-10-15,11000000000.0,11.0
+"Hugging Face,Korea Advanced Institute of Science and Technology (KAIST),Argilla",Zephyr 141B-A39B,2024-04-10,141000000000.0,141.0
+"Hugging Face,ServiceNow,Massachusetts Institute of Technology (MIT),Wellesley College,Saama,EleutherAI,Huawei Noah's Ark Lab,Carnegie Mellon University (CMU)",SantaCoder,2023-01-09,1100000000.0,1.1
+"Hugging Face,ServiceNow,Northeastern University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Carnegie Mellon University (CMU),Johns Hopkins University,Leipzig University,ScaDS.AI,Queen Mary University of London,Roblox,Sea AI Lab,Technion - Israel Institute of Technology,Monash University,CSIRO,Data61,McGill University,Saama,University of British Columbia (UBC),Massachusetts Institute of Technology (MIT),Technical University of Munich,IBM,University of Vermont,UnfoldML,SAP,University of Notre Dame,Columbia University,New York University (NYU),University of Allahabad,Discover Dollar,Toloka,Telefonica,Stanford University,Weizmann Institute of Science,Alan Turing Institute,Wellesley College,EleutherAI,Forschungszentrum Julich",StarCoder,2023-05-09,15500000000.0,15.5
+"Hugging Face,ServiceNow,Nvidia,BigCode",StarCoder 2 15B,2024-02-29,15000000000.0,15.0
+"Hugging Face,ServiceNow,Nvidia,BigCode",StarCoder 2 7B,2024-02-29,7000000000.0,7.0
+"Hugging Face,ServiceNow,Nvidia,BigCode",StarCoder 2 3B,2024-02-29,3000000000.0,3.0
+"Hugging Face,Sorbonne University",Idefics2,2024-05-03,8000000000.0,8.0
+Hume,OCTAVE 8B,2024-12-23,8000000000.0,8.0
+Hume,OCTAVE 3B,2024-12-23,3000000000.0,3.0
+IBM,Samuel Neural Checkers,1959-07-01,16.0,0.0
+IBM,LTE speaker verification system,1966-11-01,2061.0,0.0
+IBM,TD-Gammon,1992-05-01,25000.0,0.0
+IBM,IBM-5,1993-06-15,1658364.0,0.002
+IBM,Deep Blue,1997-05-01,8000.0,0.0
+IBM,4-gram + 8 DENN,2014-12-22,16100000.000000002,0.016
+IBM,Big-Little Net,2018-07-10,77360000.0,0.077
+IBM,Big-Little Net (vision),2018-07-10,77360000.0,0.077
+IBM,Big-Little Net (speech),2018-07-10,3320000.0,0.003
+IBM,AWD-LSTM-MoS+PDR + dynamic evaluation (WT2),2018-08-14,35000000.0,0.035
+IBM,AWD-LSTM-MoS+PDR + dynamic evaluation (PTB),2018-08-14,60852800.0,0.061
+IBM,Granite 13B,2023-11-30,13000000000.0,13.0
+IBM,Granite 3.0 8B,2024-10-21,8100000000.0,8.1
+IBM,Granite 3.0 2B,2024-10-21,2500000000.0,2.5
+IBM,Granite 3.1 2B,2024-12-18,2500000000.0,2.5
+IBM,Granite 3.1 8B,2024-12-18,8100000000.0,8.1
+IBM,Granite Vision 3.2 2B,2025-02-14,2980000000.0,2.98
+IBM,Granite 3.2 8B,2025-02-26,8000000000.0,8.0
+IBM,Granite 3.2 2B,2025-02-26,2530000000.0,2.53
+IBM,Granite-Docling,2025-09-17,258000000.0,0.258
+IBM,Granite-4.0-H-Tiny,2025-10-02,7000000000.0,7.0
+IBM,Granite-4.0-H-Micro,2025-10-02,3000000000.0,3.0
+IBM,Granite-4.0-H-Small,2025-10-02,32000000000.0,32.0
+IBM,Granite 4.1 30B,2026-04-29,30000000000.0,30.0
+IBM,Granite 4.1 8B,2026-04-29,8000000000.0,8.0
+IBM Research,Granite 20B,2024-05-31,20000000000.0,20.0
+"IBM Research,NASA,University of Alabama,University of Iceland,Forschungszentrum Julich,Virginia Tech (Virginia Polytechnic Institute and State University),Arizona State University,Oregon State University,Boston University,University of California (UC) Berkeley,Julich Supercomputing Center",Prithvi-EO-2.0 600M,2025-02-03,600000000.0,0.6
+"IBM Research,NASA,University of Alabama,University of Iceland,Forschungszentrum Julich,Virginia Tech (Virginia Polytechnic Institute and State University),Arizona State University,Oregon State University,Boston University,University of California (UC) Berkeley,Julich Supercomputing Center",Prithvi-EO-2.0 300M,2025-02-03,300000000.0,0.3
+"IBM Research,University of Alabama,Stanford University,Colorado State University,Oak Ridge National Laboratory,NASA",Prithvi WxC,2024-09-20,2300000000.0,2.3
+"IBM,NASA",Prithvi-100M,2023-11-08,100000000.0,0.1
+"IBM,Texas A&M",Fold2Seq,2021-06-24,12427904.0,0.012
+"IDSIA,Microsoft Research",AWD-FWM (WT2),2020-11-16,37000000.0,0.037
+"IDSIA,Microsoft Research",AWD-FWM (PTB),2020-11-16,24000000.0,0.024
+"INRIA,Facebook AI Research",ViT + DINO,2021-04-29,85000000.0,0.085
+"Illuin Technology,Equall.ai,University Paris-Saclay,ETH Zurich",ColPali,2024-07-05,3000000000.0,3.0
+"Insilico Medicine AI,Harvard Medical School",Precious3GPT,2024-07-05,89000000.0,0.089
+"Institute of Science and Technology Austria (ISTA),Neural Magic",SparseOPT-175B,2023-01-02,87500000000.0,87.5
+"Institute of Science and Technology Austria (ISTA),Neural Magic",QMoE: compressed SwitchTransformer,2023-10-25,1571000000000.0,1571.0
+Intel Labs,Swift,2023-08-30,56804.0,0.0
+"Intel Labs,Carnegie Mellon University (CMU)",LSTM (2018),2018-03-04,13000000.0,0.013
+"Intel,Argonne National Laboratory",Intel Aurora 1T,2023-11-13,1000000000000.0,1000.0
+"Jagiellonian University,Google Brain",MoE-Multi,2017-01-23,8700000000.0,8.7
+Jane Street,KataGo,2019-02-27,2500000.0,0.003
+Johns Hopkins University,RNN LM,2010-09-26,70265000.0,0.07
+"Johns Hopkins University,Cornell University",LF-MMI,2016-09-08,16600000.0,0.017
+"Johns Hopkins University,Google AI,Stanford University",PNAS-net,2017-12-02,86000000.0,0.086
+"Johns Hopkins University,Google AI,Stanford University",PNASNet-5,2017-12-02,86100000.0,0.086
+"Johns Hopkins University,New York University (NYU)",Verbatim Memory Transformer (182M),2022-10-24,182000000.0,0.182
+"Johns Hopkins University,New York University (NYU)",Verbatim Memory Transformer (117M),2022-10-24,117000000.0,0.117
+"Johns Hopkins University,New York University (NYU)",Verbatim Memory Transformer (108M),2022-10-24,107700000.0,0.108
+"Johns Hopkins University,Xiaomi Corp",Frage-AWD-LSTM-MemoryAug-NeuralCache (WT2),2020-09-29,33000000.0,0.033
+"Johns Hopkins University,Xiaomi Corp",Frage-AWD-LSTM-MemoryAug-NeuralCache (PTB),2020-09-29,24000000.0,0.024
+"Johns Hopkins University,Xiaomi Corp",LSTM-MemoryAug (WT2),2020-09-29,28500000.0,0.029
+"Johns Hopkins University,Xiaomi Corp",LSTM-MemoryAug (PTB),2020-09-29,13300000.0,0.013
+"KU Leuven,ESAT - PSI,Apple",LSTM+NeuralCache,2018-09-24,2100000.0,0.002
+"LG,Shutterstock",BITTERS,2023-10-01,650000000.0,0.65
+"LORIA,University of Lorraine,Facebook AI Research",Feedback Transformer,2020-02-21,126000000.0,0.126
+"Large Model Systems Organization,University of California (UC) Berkeley",Vicuna-13B v0,2023-03-30,13000000000.0,13.0
+"Large Model Systems Organization,University of California (UC) Berkeley",Vicuna-7B v0,2023-03-30,7000000000.0,7.0
+"Large Model Systems Organization,University of California (UC) Berkeley",Vicuna-33B-v1.3,2023-06-22,33000000000.0,33.0
+"Large Model Systems Organization,University of California (UC) Berkeley",Vicuna-13B-v1.3,2023-06-22,13000000000.0,13.0
+"Large Model Systems Organization,University of California (UC) Berkeley",Vicuna-7B-v1.3,2023-06-22,7000000000.0,7.0
+"Large Model Systems Organization,University of California (UC) Berkeley",Vicuna-7B-v1.5,2023-08-01,7000000000.0,7.0
+"Large Model Systems Organization,University of California (UC) Berkeley",Vicuna-13B-v1.5,2023-08-01,13000000000.0,13.0
+"Lehigh University,University of Georgia,Samsung Research America,Harvard Medical School,University of Pennsylvania",BiomedGPT (182M),2023-05-23,182000000.0,0.182
+"LightOn,Harvard University,University of Oxford",Rita-XLarge,2022-07-14,1200000000.0,1.2
+Liquid,LFM 40B,2024-09-30,40300000000.0,40.3
+"MIT-IBM Watson AI Lab,Massachusetts Institute of Technology (MIT)",GLA Transformer 1.3B,2024-08-27,1300000000.0,1.3
+"MIT-IBM Watson AI Lab,Massachusetts Institute of Technology (MIT)",GLA Transformer 340M,2024-08-27,340000000.0,0.34
+"MIT-IBM Watson AI Lab,Massachusetts Institute of Technology (MIT),IBM",Once for All,2020-04-29,7700000.0,0.008
+Marin,Marin 8B,2025-05-19,8000000000.0,8.0
+Massachusetts Institute of Technology (MIT),Self Organizing System,1955-03-01,225.0,0.0
+Massachusetts Institute of Technology (MIT),RL mapping instructions (games),2009-08-01,80940.0,0.0
+Massachusetts Institute of Technology (MIT),RL mapping instructions (troubleshooting),2009-08-02,133140.0,0.0
+Massachusetts Institute of Technology (MIT),ResNet-152 + ObjectNet,2019-09-06,38000000.0,0.038
+Massachusetts Institute of Technology (MIT),DiffDock,2022-10-04,20240000.0,0.02
+Massachusetts Institute of Technology (MIT),OpenCLIP ViT-H-14-378-quickgelu,2023-04-16,986710000.0,0.987
+Massachusetts Institute of Technology (MIT),FlowER,2025-08-20,7000000000.0,7.0
+"Massachusetts Institute of Technology (MIT),Harvard University","MicroNet (Adaptive, Cache)",2020-01-01,8300000.000000001,0.008
+"Massachusetts Institute of Technology (MIT),Stanford University",SACHS,2005-04-22,178.0,0.0
+"Massachusetts Institute of Technology (MIT),University of Illinois Urbana-Champaign (UIUC)",Transformer-XL Large + Phrase Induction,2019-06-04,256999999.99999997,0.257
+"Massachusetts Institute of Technology (MIT),University of Illinois Urbana-Champaign (UIUC)",AWD-LSTM + Phrase Induction + finetuning (PTB),2019-06-04,24000000.0,0.024
+"Massachusetts Institute of Technology (MIT),Westlake University",OmegaPLM,2022-07-22,670000000.0,0.67
+"McGill University,Meta AI,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",BlenderBot 3,2022-08-10,175000000000.0,175.0
+Meta AI,DLRM-2021,2020-07-01,1000000000000.0,1000.0
+Meta AI,DiffQ Transformer (16L),2021-04-20,247000000.0,0.247
+Meta AI,MoE-1.1T,2021-12-20,1100000000000.0,1100.0
+Meta AI,Fairseq-dense 13B,2021-12-20,13000000000.0,13.0
+Meta AI,XGLM,2021-12-20,564000000.0,0.564
+Meta AI,data2vec (language),2022-01-20,705134592.0,0.705
+Meta AI,data2vec (speech),2022-01-20,705134592.0,0.705
+Meta AI,data2vec (vision),2022-01-20,705134592.0,0.705
+Meta AI,Make-A-Scene,2022-03-24,4000000000.0,4.0
+Meta AI,Sparse all-MLP,2022-04-14,9410000000.0,9.41
+Meta AI,OPT-175B,2022-05-02,175000000000.0,175.0
+Meta AI,OPT-13B,2022-05-02,13000000000.0,13.0
+Meta AI,OPT-2.7B (finetuned on PTB),2022-06-21,2700000000.0,2.7
+Meta AI,OPT-1.3B,2022-06-21,1300000000.0,1.3
+Meta AI,OPT-1.3B (finetuned on PTB),2022-06-21,1300000000.0,1.3
+Meta AI,OPT-2.7B (finetuned on WT2),2022-06-21,2700000000.0,2.7
+Meta AI,OPT-125M (finetuned),2022-06-21,125000000.0,0.125
+Meta AI,OPT-6.7B,2022-06-21,6700000000.0,6.7
+Meta AI,OPT-66B,2022-06-21,66000000000.0,66.0
+Meta AI,OPT-350M,2022-06-21,350000000.0,0.35
+Meta AI,OPT-2.7B,2022-06-21,2700000000.0,2.7
+Meta AI,OPT-125M (finetuned on PTB),2022-06-21,125000000.0,0.125
+Meta AI,OPT-30B,2022-06-21,30000000000.0,30.0
+Meta AI,OPT-1.3B (finetuned),2022-06-21,1300000000.0,1.3
+Meta AI,NLLB,2022-07-06,54500000000.0,54.5
+Meta AI,Galactica,2022-11-16,120000000000.0,120.0
+Meta AI,OPT-IML (175B),2022-12-22,175000000000.0,175.0
+Meta AI,ToolFormer,2023-02-09,6700000000.0,6.7
+Meta AI,LLaMA-65B,2023-02-24,65200000000.0,65.2
+Meta AI,LLaMA-7B,2023-02-24,6700000000.0,6.7
+Meta AI,LLaMA-13B,2023-02-27,13000000000.0,13.0
+Meta AI,LLaMA-33B,2023-02-27,32500000000.0,32.5
+Meta AI,Segment Anything Model,2023-04-05,636000000.0,0.636
+Meta AI,ImageBind,2023-05-09,932000000.0,0.932
+Meta AI,MMS-1B,2023-05-22,1000000000.0,1.0
+Meta AI,MusicGen,2023-06-08,3359000000.0,3.359
+Meta AI,Llama 2-70B,2023-07-18,70000000000.0,70.0
+Meta AI,Llama 2-34B,2023-07-18,34000000000.0,34.0
+Meta AI,Llama 2-7B,2023-07-18,7000000000.0,7.0
+Meta AI,Llama 2-13B,2023-07-18,13000000000.0,13.0
+Meta AI,Code Llama-34B,2023-08-14,34000000000.0,34.0
+Meta AI,Code Llama-7B,2023-08-14,7000000000.0,7.0
+Meta AI,Code Llama-13B,2023-08-14,13000000000.0,13.0
+Meta AI,Emu (Meta),2023-09-27,2800000000.0,2.8
+Meta AI,Llama Guard,2023-12-07,7000000000.0,7.0
+Meta AI,Code Llama-70B,2024-01-29,70000000000.0,70.0
+Meta AI,V-JEPA,2024-02-15,630000000.0,0.63
+Meta AI,Llama 3-70B,2024-04-18,70000000000.0,70.0
+Meta AI,Llama 3-8B,2024-04-18,8000000000.0,8.0
+Meta AI,LLaMA-3-Instruct-8B,2024-04-18,8000000000.0,8.0
+Meta AI,Llama 3.1-405B,2024-07-23,405000000000.0,405.0
+Meta AI,Llama 3.1-70B,2024-07-23,70000000000.0,70.0
+Meta AI,Llama 3.1-8B,2024-07-23,8000000000.0,8.0
+Meta AI,Segment Anything Model 2,2024-07-29,224400000.0,0.224
+Meta AI,Llama 3.2 11B,2024-09-24,10600000000.0,10.6
+Meta AI,Llama 3.2 90B,2024-09-24,88600000000.0,88.6
+Meta AI,Llama 3.2 1B,2024-09-24,1230000000.0,1.23
+Meta AI,Llama 3.2 3B,2024-09-24,3210000000.0,3.21
+Meta AI,Movie Gen Video,2024-10-04,30000000000.0,30.0
+Meta AI,Movie Gen Audio,2024-10-04,13000000000.0,13.0
+Meta AI,Llama 3.3 70B,2024-12-06,70000000000.0,70.0
+Meta AI,Llama 4 Scout,2025-04-05,109000000000.0,109.0
+Meta AI,Llama 4 Maverick,2025-04-05,400000000000.0,400.0
+Meta AI,Llama 4 Behemoth (preview),2025-04-05,2000000000000.0,2000.0
+Meta AI,DINOv3,2025-08-13,7000000000.0,7.0
+Meta AI,Llama 4 Scout + ScaleRL,2025-10-15,109000000000.0,109.0
+Meta AI,Muse Glimmer,2026-08-10,30000000000.0,30.0
+Meta AI,Muse Spark Open,2026-10-15,816000000000.0,816.0
+"Meta AI,Carnegie Mellon University (CMU)",DLRM-12T,2021-04-12,12000000000000.0,12000.0
+"Meta AI,Carnegie Mellon University (CMU),University of Southern California,Tel Aviv University",LIMA,2023-05-18,65000000000.0,65.0
+"Meta AI,Chinese University of Hong Kong (CUHK)",MemSizer (language modeling),2022-03-23,357000000.0,0.357
+"Meta AI,Facebook AI Research",XGLM-7.5B,2021-12-20,7500000000.0,7.5
+"Meta AI,Hebrew University of Jerusalem",AudioGen,2023-03-05,1000000000.0,1.0
+"Meta AI,Hebrew University of Jerusalem,Kyutai",MAGNeT,2024-01-09,1500000000.0,1.5
+"Meta AI,King Abdullah University of Science and Technology (KAUST),Korea University",LongVU,2024-10-22,7000000000.0,7.0
+"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",ESM2-15B,2022-07-21,15000000000.0,15.0
+"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",ESM2-3B,2022-07-21,3000000000.0,3.0
+"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",ESM2-650M,2022-07-21,650000000.0,0.65
+"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",ESM2-150M,2022-07-21,150000000.0,0.15
+"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",ESM2-35M,2022-07-21,35000000.0,0.035
+"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",ESM2-8M,2022-07-21,8000000.0,0.008
+"Meta AI,Sorbonne University",DeiT-B,2021-01-15,86000000.0,0.086
+"Meta AI,Stanford University",Apollo 3B,2024-12-13,3000000000.0,3.0
+"Meta AI,Stanford University",Apollo 1.5B,2024-12-13,1500000000.0,1.5
+"Meta AI,Stanford University",Apollo 7B,2024-12-13,7000000000.0,7.0
+"Meta AI,Universite de Technologie de Compiègne – CNRS,Basque Center on Cognition",Brain2Qwerty,2025-02-18,400000000.0,0.4
+"Meta AI,University College London (UCL),PSL University,Université Grenoble Alpes",Contriever,2021-12-16,110000000.0,0.11
+"Meta AI,University of Texas at Austin",Detic,2022-01-07,88000000.0,0.088
+MetaMind Inc,Deep RNN (PTB),2013-12-11,6000000.0,0.006
+MetaMind Inc,Zoneout + Variational LSTM (PTB),2016-09-26,20000000.0,0.02
+MetaMind Inc,Pointer Sentinel-LSTM (WT2),2016-09-26,21000000.0,0.021
+"MetaMind Inc,Salesforce",Pointer Sentinel-LSTM (medium),2016-09-26,21000000.0,0.021
+"MetaMind Inc,Salesforce",Zoneout + Variational LSTM (WT2),2016-09-26,21000000.0,0.021
+"MetaMind Inc,Stanford University",Constituency-Tree LSTM,2015-02-28,205190.0,0.0
+"Michigan State University,TAL Education Group (Xueersi)",R-Transformer,2019-07-12,15800000.0,0.016
+Microsoft,ResNet-152 (ImageNet),2015-12-10,60200000.0,0.06
+Microsoft,ResNet-110 (CIFAR-10),2015-12-10,1700000.0,0.002
+Microsoft,ResNet-101 (ImageNet),2015-12-10,44500000.0,0.044
+Microsoft,MS-ensemble-speech-recognition,2016-09-12,3172117056.0,3.172
+Microsoft,ResNet-1001,2016-09-17,10200000.0,0.01
+Microsoft,MT-DNN,2019-01-31,330000000.0,0.33
+Microsoft,Turing-NLG,2020-02-13,17000000000.0,17.0
+Microsoft,DeBERTa,2021-06-10,1500000000.0,1.5
+Microsoft,"GPT-2 (1.5B, Curriculum Learning 45K)",2021-08-13,1500000000.0,1.5
+Microsoft,"GPT-2 (117M, SLW 110K)",2021-08-13,117000000.0,0.117
+Microsoft,MEB,2021-09-04,135000000000.0,135.0
+Microsoft,Turing ULRv5,2021-09-28,2200000000.0,2.2
+Microsoft,Florence,2021-11-22,893000000.0,0.893
+Microsoft,T-NLRv5 XXL,2021-12-03,5400000000.0,5.4
+Microsoft,DeBERTaV3large + KEAR,2022-05-04,418000000.0,0.418
+Microsoft,BEIT-3,2022-08-22,1900000000.0,1.9
+Microsoft,XY-LENTXL,2022-10-26,2000000000.0,2.0
+Microsoft,VALL-E,2023-01-05,353000000.0,0.353
+Microsoft,Kosmos-1,2023-03-01,1600000000.0,1.6
+Microsoft,VALL-E X,2023-03-07,700000000.0,0.7
+Microsoft,WizardCoder-15.5B,2023-06-14,15500000000.0,15.5
+Microsoft,Kosmos-2,2023-06-26,1600000000.0,1.6
+Microsoft,Multilingual-E5-large,2023-06-30,560000000.0,0.56
+Microsoft,Phi-1.5,2023-09-11,1300000000.0,1.3
+Microsoft,Phi-2,2023-12-12,2700000000.0,2.7
+Microsoft,WizardLM-2 8x22B,2024-04-15,141000000000.0,141.0
+Microsoft,WizardLM-2 70B,2024-04-15,70000000000.0,70.0
+Microsoft,WizardLM-2 7B,2024-04-15,7000000000.0,7.0
+Microsoft,phi-3-mini 3.8B,2024-04-23,3800000000.0,3.8
+Microsoft,phi-3-medium 14B,2024-04-23,14000000000.0,14.0
+Microsoft,phi-3-small 7.4B,2024-04-23,7400000000.0,7.4
+Microsoft,Phi-3.5-mini,2024-04-23,3800000000.0,3.8
+Microsoft,Phi-3.5-vision,2024-04-23,4200000000.0,4.2
+Microsoft,Phi-3.5-MoE,2024-04-23,60800000000.0,60.8
+Microsoft,Microsoft MAI-1 (2024 unreleased),2024-05-06,500000000000.0,500.0
+Microsoft,Florence-2-B (base),2024-07-29,232000000.0,0.232
+Microsoft,Florence-2-L (large),2024-07-29,771000000.0,0.771
+Microsoft,Kosmos-2.5,2024-08-21,1300000000.0,1.3
+Microsoft,E2 TTS,2024-09-12,335000000.0,0.335
+Microsoft,Phi-4 Mini,2025-03-03,3800000000.0,3.8
+Microsoft,Phi-4-Multimodal,2025-03-03,5600000000.0,5.6
+Microsoft,MAI-DS-R1,2025-04-16,671000000000.0,671.0
+Microsoft,Phi-4-Reasoning,2025-04-30,14000000000.0,14.0
+Microsoft,Phi-4-Reasoning-plus,2025-04-30,14000000000.0,14.0
+Microsoft,MAI-Thinking-1,2026-06-02,962000000000.0,962.0
+Microsoft,MAI-Base-2,2026-10-15,2800000000000.0,2800.0
+Microsoft Research,"MSRA (C, PReLU)",2015-02-06,87048800.0,0.087
+Microsoft Research,AMDIM,2019-06-03,626000000.0,0.626
+Microsoft Research,DeBERTaV3large,2021-11-18,418000000.0,0.418
+Microsoft Research,DeepNet,2022-03-01,3200000000.0,3.2
+Microsoft Research,Phi-1,2023-10-02,1300000000.0,1.3
+Microsoft Research,Table-GPT,2023-10-13,175000000000.0,175.0
+Microsoft Research,Orca 2-13B,2023-11-21,13000000000.0,13.0
+Microsoft Research,CARP,2024-02-06,643000000.0,0.643
+Microsoft Research,Aurora,2024-05-28,1300000000.0,1.3
+Microsoft Research,Phi-4,2024-12-12,14000000000.0,14.0
+Microsoft Research AI for Science,MatterSim (M3GNet - MatterSim-v1.0.0-5M),2024-05-10,4500000.0,0.004
+Microsoft Research AI for Science,MatterSim (Grpaphomer),2024-05-10,182000000.0,0.182
+Microsoft Research AI for Science,µFormer,2024-09-05,670000000.0,0.67
+Microsoft Research AI for Science,MatterGen,2025-01-16,46800000.0,0.047
+"Microsoft Research Asia,Shanghai Jiao Tong University,Carnegie Mellon University (CMU)",LoongRL 7B,2025-10-27,7000000000.0,7.0
+"Microsoft Research Asia,Shanghai Jiao Tong University,Carnegie Mellon University (CMU)",LoongRL 14B,2025-10-27,14000000000.0,14.0
+"Microsoft Research,Microsoft",RankNet,2005-08-07,5711.0,0.0
+"Microsoft Research,Nvidia,Stanford University",Megatron-LM (1T),2021-04-09,1000000000000.0,1000.0
+"Microsoft Research,Peking University",NÜWA,2021-11-24,870000000.0,0.87
+"Microsoft Research,Syngentech,Tsinghua University",ERNIE-RNA,2024-03-17,86000000.0,0.086
+"Microsoft Research,Tsinghua University",RetNet,2023-07-17,6700000000.0,6.7
+"Microsoft Research,University of Waterloo","Segatron-XL large, M=384 + HCP",2022-03-21,256999999.99999997,0.257
+"Microsoft Research,University of Waterloo","Segatron -XL base, M=150 + HCP",2022-03-21,151000000.0,0.151
+"Microsoft,Brno University of Technology",RNN+LDA+KN5+cache,2012-12-01,9000000.0,0.009
+"Microsoft,Microsoft Research",CODEFUSION (Python),2023-10-26,75000000.0,0.075
+"Microsoft,Nvidia",Megatron-Turing NLG 530B,2021-10-11,530000000000.0,530.0
+"Microsoft,OpenAI",GPT3-6.7B (rerun of original),2020-05-28,6700000000.0,6.7
+"Microsoft,OpenAI",GPT3-6.7B + muP,2022-03-07,6700000000.0,6.7
+"Microsoft,Peking University",WizardLM-7B,2023-04-24,6700000000.0,6.7
+"Microsoft,Peking University",WizardLM 70B,2023-04-24,70000000000.0,70.0
+"Microsoft,Peking University",WizardLM 13B v1.2,2023-07-25,13000000000.0,13.0
+"Microsoft,University of Illinois Urbana-Champaign (UIUC)",Samba 3.8B,2024-06-11,3800000000.0,3.8
+"Microsoft,University of Toronto",DBN for NLP,2014-02-11,1021535.0,0.001
+"Microsoft,Xi’an Jiaotong University",LongNet,2023-07-05,2700000000.0,2.7
+"Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal,IBM Research,HEC Montreal,CIFAR AI Research",ESM-GearNet,2023-05-11,650000000.0,0.65
+"Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal,IBM Research,HEC Montreal,CIFAR AI Research",Structure-Informed Protein Language Model,2024-02-07,650000000.0,0.65
+"Mistral AI,All Hands AI",Devstral Small,2025-05-21,24000000000.0,24.0
+"Mitsubishi Electric Research Labs,Compaq CRL",Decision tree (classification),2001-12-08,12000.0,0.0
+"Mobvoi,Williams College",True-Regularization+Finetune,2019-04-08,7000000.0,0.007
+"Mobvoi,Williams College",True-Regularization+Finetune+Dynamic-Eval,2019-04-08,7000000.0,0.007
+"Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),Petuum,University of Southern California,Carnegie Mellon University (CMU),University of Illinois Urbana-Champaign (UIUC),University of California San Diego,LLM360",CRYSTALCODER,2023-12-11,6700000000.0,6.7
+"Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),Petuum,University of Southern California,Carnegie Mellon University (CMU),University of Illinois Urbana-Champaign (UIUC),University of California San Diego,LLM360",Amber,2023-12-11,6700000000.0,6.7
+MosaicML,MPT-7B,2023-05-05,7000000000.0,7.0
+MosaicML,MPT-30B,2023-06-22,30000000000.0,30.0
+"NASA,IBM",NASA SMD,2023-12-01,125000000.0,0.125
+"NASA,University of Alabama,IBM Research",Surya,2025-08-20,366000000.0,0.366
+NEC Laboratories,Deep Multitask NLP Network,2008-07-05,1500000.0,0.002
+NEC Laboratories,NEC LLM 13B,2023-07-06,13000000000.0,13.0
+"NEC Laboratories,Courant Institute of Mathematical Sciences",Synergistic Face Detector,2004-12-01,16636.0,0.0
+"NEC Laboratories,Princeton University",NLP from scratch,2011-11-08,5000000.0,0.005
+"NERSC, Lawrence Berkeley National Laboratory,University of California (UC) Berkeley",6-Layer-Tensor-Transformer+AdaHessian,2020-06-01,85500000.0,0.086
+National Cancer Institute,Cancer drug mechanism prediction,1992-10-16,594.0,0.0
+"National Tsing Hua University,Google",CT-MoS + DynamicEval (WT2),2020-12-25,45000000.0,0.045
+"National Tsing Hua University,Google",CT-MoS (PTB),2020-12-25,24000000.0,0.024
+"National Tsing Hua University,Google",CT-MoS + DynamicEval (PTB),2020-12-25,24000000.0,0.024
+"National University of Singapore,Prescient Design,University of Missouri,University of Cambridge",RNA-FrameFlow,2024-06-19,16800000.0,0.017
+"National University of Singapore,Skywork AI,Hong Kong University of Science and Technology (HKUST),University of California (UC) Berkeley,Zhejiang University (ZJU)",Meissonic,2025-03-13,1000000000.0,1.0
+New York University (NYU),Invariant CNN,2004-06-27,90575.0,0.0
+New York University (NYU),DrLIM,2006-06-17,37097.0,0.0
+New York University (NYU),SVM-CNN,2006-06-17,90857.0,0.0
+New York University (NYU),Two Stage Feature Extraction (MNIST),2009-09-01,258800.0,0.0
+New York University (NYU),Hierarchical Scene Labeling (Stanford Background),2013-08-01,51609600.0,0.052
+New York University (NYU),OverFeat,2013-12-21,144000000.0,0.144
+New York University (NYU),NMST+GPT-2,2022-10-03,124000000.0,0.124
+New York University (NYU),Cambrian-1-34B,2024-06-24,34000000000.0,34.0
+New York University (NYU),Cambrian-1-13B,2024-06-24,13000000000.0,13.0
+New York University (NYU),Cambrian-1-8B,2024-06-24,8000000000.0,8.0
+"New York University (NYU),Facebook AI Research,CIFAR AI Research",L_UL-seq,2019-08-12,247000000.00000003,0.247
+"New York University (NYU),Google Brain",Large regularized LSTM,2014-09-08,66000000.0,0.066
+"New York University (NYU),Microsoft",Stacked Semisuperviser Autoencoders,2008-07-15,3000000.0,0.003
+"New York University (NYU),Net-Scale technologies,NEC Laboratories",Vision-based obstacle avoidance system (2005),2005-12-05,72000.0,0.0
+"New York University (NYU),University of California (UC) Berkeley",DiT-XL/2,2023-03-02,675000000.0,0.675
+Nexusflow,NexusRaven-V2,2023-12-05,13000000000.0,13.0
+Nexusflow,Athene-70B,2024-07-19,70000000000.0,70.0
+Nexusflow,Athene-V2,2024-11-14,72000000000.0,72.0
+Northeastern University,RCAN,2018-07-08,16000000.0,0.016
+Northeastern University,DNABERT,2021-08-15,110000000.0,0.11
+Northwestern University,RNNLM + Dynamic KL Regularization,2018-01-01,13275200.0,0.013
+Northwestern University,RNNLM + Dynamic KL Regularization (WT2),2018-04-27,87600000.0,0.088
+Nous Research,Nous-Hermes-2-Yi-34B,2023-12-25,34000000000.0,34.0
+Nous Research,Hermes 3 405B,2024-08-14,405000000000.0,405.0
+Nous Research,Hermes 3 70B,2024-08-14,70000000000.0,70.0
+Nous Research,Hermes 3 8B,2024-08-14,8000000000.0,8.0
+Nous Research,DISTRO,2024-08-26,1200000000.0,1.2
+Nous Research,Deephermes 3 Llama 3 8B Preview,2025-02-14,8000000000.0,8.0
+Nous Research,DeepHermes 3 - Mistral 24B,2025-03-29,24000000000.0,24.0
+Nous Research,Nomos 1,2025-12-11,30000000000.0,30.0
+"Nous Research,Arcee AI",Hermes 2 Theta Llama-3 70B,2024-06-20,70000000000.0,70.0
+"Nous Research,EleutherAI,University of Geneva",YaRN (Llama 2 13B),2023-11-01,13000000000.0,13.0
+"Nous Research,EleutherAI,University of Geneva",YaRN (Llama 2 70B),2023-11-01,70000000000.0,70.0
+"Numenta,Incubator 491",bRSM + cache,2019-12-02,2550000.0,0.003
+Nvidia,StyleGAN,2018-12-12,26200000.0,0.026
+Nvidia,Megatron-BERT,2019-09-17,3900000000.0,3.9
+Nvidia,Megatron-LM (8.3B),2019-09-17,8300000000.0,8.3
+Nvidia,Megatron-LM (2.5B),2019-09-17,2500000000.0,2.5
+Nvidia,Megatron-LM (355M),2019-09-17,355000000.0,0.355
+Nvidia,Megatron-LM (1.2B),2019-09-17,1200000000.0,1.2
+Nvidia,MegaMolBART,2021-09-14,45000000.0,0.045
+Nvidia,STT Conformer-Transducer XL,2022-04-12,600000000.0,0.6
+Nvidia,NeMO Megatron GPT 20B,2022-09-15,20000000000.0,20.0
+Nvidia,eDiff-I,2022-11-02,9100000000.0,9.1
+Nvidia,Nemotron-3-8B,2023-11-15,8000000000.0,8.0
+Nvidia,Nemotron-4 15B,2024-02-27,15000000000.0,15.0
+Nvidia,Parakeet ASR rnnt 1.1B,2024-04-18,1100000000.0,1.1
+Nvidia,VISTA-2D,2024-04-22,100000000.0,0.1
+Nvidia,NV-Embed-v1,2024-05-27,7000000000.0,7.0
+Nvidia,Mamba2-Hybrid,2024-06-12,8660000000.0,8.66
+Nvidia,Nemotron-4 340B,2024-06-14,340000000000.0,340.0
+Nvidia,NV-Embed-v2,2024-08-30,7000000000.0,7.0
+Nvidia,NVLM-D 72B,2024-10-22,72000000000.0,72.0
+Nvidia,NVLM-H 72B,2024-10-22,72000000000.0,72.0
+Nvidia,NVLM-X 72B,2024-10-22,72000000000.0,72.0
+Nvidia,Llama-3.1-Minitron-4B,2024-11-04,4000000000.0,4.0
+Nvidia,Minitron 8B,2024-11-04,8300000000.0,8.3
+Nvidia,Minitron 4B,2024-11-04,4200000000.0,4.2
+Nvidia,Hymba,2024-11-22,1500000000.0,1.5
+Nvidia,Fugatto 1,2024-11-25,2500000000.0,2.5
+Nvidia,"Cosmos-1.0-
+Diffusion-14B Video2World",2025-01-07,14000000000.0,14.0
+Nvidia,Cosmos-Predict1-7b-Video2World,2025-01-07,7000000000.0,7.0
+Nvidia,Cosmos-Predict1-14b-Video2World,2025-01-07,14000000000.0,14.0
+Nvidia,Llama Nemotron Nano 8B,2025-03-18,8000000000.0,8.0
+Nvidia,Llama Nemotron Ultra 253B,2025-03-18,253000000000.0,253.0
+Nvidia,Llama Nemotron Super 49B,2025-03-18,49000000000.0,49.0
+Nvidia,GR00T N1 2B,2025-03-18,2190000000.0,2.19
+Nvidia,Cosmos-Transfer1-7B,2025-03-18,7000000000.0,7.0
+Nvidia,FoundationStereo,2025-04-04,335300000.0,0.335
+Nvidia,Nemotron-H 8B,2025-04-14,8000000000.0,8.0
+Nvidia,Nemotron-H 47B,2025-04-14,47000000000.0,47.0
+Nvidia,Nemotron-H 56B,2025-04-14,56000000000.0,56.0
+Nvidia,Earth-2 (cBottle-SR),2025-05-10,330000000.0,0.33
+Nvidia,NVIDIA Isaac GR00T N1.5 3B,2025-05-18,3000000000.0,3.0
+Nvidia,Cosmos-Reason1 7B,2025-05-19,7000000000.0,7.0
+Nvidia,Cosmos-Reason1 56B,2025-05-19,56000000000.0,56.0
+Nvidia,Cosmos-Predict2-14B-Text2Image,2025-06-11,14000000000.0,14.0
+Nvidia,Cosmos-Predict2-2B-Video2World,2025-06-11,2000000000.0,2.0
+Nvidia,Cosmos-Predict2-14B-Video2World,2025-06-11,14000000000.0,14.0
+Nvidia,Cosmos-Predict2-2B-Text2Image,2025-06-11,2000000000.0,2.0
+Nvidia,OpenReasoning-Nemotron-32B,2025-07-16,32000000000.0,32.0
+Nvidia,Llama Nemotron Super v1.5,2025-07-29,49000000000.0,49.0
+Nvidia,Canary 1B v2,2025-08-14,1000000000.0,1.0
+Nvidia,Parakeet-tdt-0.6b-v3,2025-08-14,600000.0,0.001
+Nvidia,NVIDIA-Nemotron-Nano-9B-v2,2025-08-18,9000000000.0,9.0
+Nvidia,NVIDIA-Nemotron-Nano-12B-v2,2025-08-18,12000000000.0,12.0
+Nvidia,Cosmos-Transfer2.5-2B,2025-09-29,2000000000.0,2.0
+Nvidia,Cosmos-Predict2.5-14B,2025-09-29,14000000000.0,14.0
+Nvidia,Cosmos-Predict2.5 2B,2025-09-29,2000000000.0,2.0
+Nvidia,Nemotron 3-Nano-30B-A3B,2025-12-15,31600000000.0,31.6
+Nvidia,Nemotron-Cascade 14B,2025-12-15,14800000000.0,14.8
+Nvidia,DreamZero,2026-02-17,14000000000.0,14.0
+Nvidia,Nemotron 3 Super,2026-03-11,120000000000.0,120.0
+Nvidia,Nemotron 3 Ultra,2026-06-04,550000000000.0,550.0
+Nvidia,Nemotron 3.5 Lightning,2026-08-11,30000000000.0,30.0
+Nvidia,Nemotron 3.5 Bolt E4B,2026-09-23,8000000000.0,8.0
+"Nvidia,Aalto University",StyleGAN2,2019-12-03,30000000.0,0.03
+"Nvidia,Aalto University",StyleGAN3-T,2021-06-21,2230000.0,0.002
+"Nvidia,Aalto University",StyleGAN3-R,2021-06-21,1580000.0,0.002
+"Nvidia,Massachusetts Institute of Technology (MIT)",VILA-13B,2023-12-12,13350839296.0,13.351
+"Nvidia,Massachusetts Institute of Technology (MIT)",VILA1.5-13B,2024-05-03,13493916736.0,13.494
+"Nvidia,Massachusetts Institute of Technology (MIT)",VILA1.5-40B,2024-05-15,40000000000.0,40.0
+"Nvidia,Massachusetts Institute of Technology (MIT)",VILA-7B,2024-05-15,7000000000.0,7.0
+"Nvidia,Massachusetts Institute of Technology (MIT),Tsinghua University",SANA 1.6B,2024-10-14,1648000000.0,1.648
+"Nvidia,Massachusetts Institute of Technology (MIT),Tsinghua University,Playground,Peking University,The University of Hong Kong",SANA 1.5 4.8B,2025-05-17,4800000000.0,4.8
+"Nvidia,Massachusetts Institute of Technology (MIT),University of California (UC) Berkeley,UT Austin",LongVILA-7B,2024-08-19,7000000000.0,7.0
+"Nvidia,Massachusetts Institute of Technology (MIT),University of California (UC) Berkeley,University of California San Diego,University of Washington,Tsinghua University",NVILA 15B,2024-12-05,15000000000.0,15.0
+"Nvidia,Massachusetts Institute of Technology (MIT),University of California (UC) Berkeley,University of California San Diego,University of Washington,Tsinghua University",NVILA 8B,2024-12-05,8000000000.0,8.0
+"Nvidia,Nanjing University,Hong Kong Polytechnic University,Rutgers University",Eagle 2.5,2025-04-21,8000000000.0,8.0
+"Nvidia,Nanjing University,Tsinghua University,Hong Kong Polytechnic University,Johns Hopkins University,New York University (NYU)",Eagle 2,2025-01-20,8930000000.0,8.93
+"Nvidia,ServiceNow",Apriel Nemotron 15B,2025-05-06,15000000000.0,15.0
+"Nvidia,Technical University of Munich,InstaDeep",Nucleotide Transformer,2023-01-15,2500000000.0,2.5
+"Nvidia,University of California (UC) Berkeley",BADGER,2024-06-24,2900000.0,0.003
+"Nvidia,University of Toronto,Vector Institute,University of Illinois Urbana-Champaign (UIUC)",Diffusion Renderer,2025-03-22,1100000000.0,1.1
+"Nvidia,University of Washington,University of Southern California",HAMSTER VLM,2025-02-08,13493916736.0,13.494
+Ohio State University,ShapeMol,2023-08-23,2700000.0,0.003
+OpenAI,GPT-1,2018-06-01,117000000.0,0.117
+OpenAI,Dexterous In-Hand Manipulation [control policy],2018-08-01,3181588.0,0.003
+OpenAI,GPT-2 (1.5B),2019-02-14,1500000000.0,1.5
+OpenAI,GPT-2 (124M),2019-02-14,124000000.0,0.124
+OpenAI,GPT-2 (774M),2019-02-14,774000000.0,0.774
+OpenAI,GPT-2 (355M),2019-02-14,355000000.0,0.355
+OpenAI,Sparse Transformer (Enwik8),2019-04-23,95000000.0,0.095
+OpenAI,Sparse Transformer (CIFAR10),2019-04-23,59000000.0,0.059
+OpenAI,Sparse Transformer (ImageNet),2019-04-23,152000000.0,0.152
+OpenAI,MuseNet,2019-04-25,2038431744.0,2.038
+OpenAI,Hide and Seek,2019-09-17,1600000.0,0.002
+OpenAI,Rubik's cube ADR robot,2019-10-15,27769565.0,0.028
+OpenAI,OpenAI Five,2019-12-13,159000000.0,0.159
+OpenAI,OpenAI Five Rerun,2019-12-13,159000000.0,0.159
+OpenAI,GPT-3 175B (davinci),2020-05-28,174600000000.0,174.6
+OpenAI,iGPT-XL,2020-06-17,6801000000.0,6.801
+OpenAI,iGPT-L,2020-06-17,1362000000.0,1.362
+OpenAI,GPT-3 6.7B,2020-06-22,6660000000.0,6.66
+OpenAI,GPT-3 XL,2020-06-22,1320000000.0,1.32
+OpenAI,GPT-3 Small,2020-06-22,125000000.0,0.125
+OpenAI,GPT-3 Medium,2020-06-22,356000000.0,0.356
+OpenAI,GPT-3 Large,2020-06-22,760000000.0,0.76
+OpenAI,GPT-3 2.7B,2020-06-22,2650000000.0,2.65
+OpenAI,GPT-3 13B,2020-06-22,12850000000.0,12.85
+OpenAI,DALL-E,2021-01-05,12000000000.0,12.0
+OpenAI,CLIP (ViT L/14@336px),2021-01-05,370000000.0,0.37
+OpenAI,CLIP (ResNet-50),2021-01-05,88600000.0,0.089
+OpenAI,Very Deep VAEs (ImageNet-64),2021-03-16,125000000.0,0.125
+OpenAI,ADM,2021-05-11,559000000.0,0.559
+OpenAI,GPT2-Large+LHOPT,2021-06-02,760000000.0,0.76
+OpenAI,Codex,2021-07-07,12000000000.0,12.0
+OpenAI,GLIDE,2021-12-20,3500000000.0,3.5
+OpenAI,InstructGPT 175B,2022-01-27,175000000000.0,175.0
+OpenAI,InstructGPT 6B,2022-01-27,6000000000.0,6.0
+OpenAI,InstructGPT 1.3B,2022-01-27,1300000000.0,1.3
+OpenAI,InstructGPT 350M,2022-01-27,350000000.0,0.35
+OpenAI,Statement Curriculum Learning,2022-03-02,774000000.0,0.774
+OpenAI,DALL·E 2,2022-04-06,3500000000.0,3.5
+OpenAI,WebGPT,2022-07-01,175000000000.0,175.0
+OpenAI,Whisper,2022-09-21,1550000000.0,1.55
+OpenAI,Whisper v2,2022-12-05,1550000000.0,1.55
+OpenAI,GPT-4 (Mar 2023),2023-03-15,1800000000000.0,1800.0
+OpenAI,GPT-4 (Jun 2023),2023-06-13,1800000000000.0,1800.0
+OpenAI,Whisper v3,2023-11-06,1550000000.0,1.55
+OpenAI,gpt-oss-120b,2025-08-05,116830000000.0,116.83
+OpenAI,gpt-oss-20b,2025-08-05,20910000000.0,20.91
+OpenLM Research,OpenLLaMA-13B,2023-05-01,13000000000.0,13.0
+Oregon State University,NETtalk reimplementation,1990-06-01,27480.0,0.0
+"POSTECH,Carnegie Mellon University (CMU),Adobe",GigaGAN,2023-06-19,1000000000.0,1.0
+Particle,Particle-1,2026-10-28,748000000000.0,748.0
+"Peking University,Tsinghua University,Peng Cheng Laboratory,Alibaba DAMO Academy,Lehigh University",LLaVA-CoT,2024-11-15,11000000000.0,11.0
+"Peng Cheng Laboratory,University of Texas at Houston",MedBERT,2021-05-20,17000000.0,0.017
+"Pennsylvania State University,Rochester Institute of Technology",DiffStk-MRNN,2020-04-04,1010000.0,0.001
+Periodic Labs,Periodic Neon,2026-09-15,1040000000000.0,1040.0
+Perplexity,PPLX-70B-Online,2023-11-29,70000000000.0,70.0
+Perplexity,Sonar,2025-01-21,70000000000.0,70.0
+Perplexity,R1 1776,2025-02-18,671000000000.0,671.0
+Physical Intelligence,π0 (pi-zero),2024-10-31,3300000000.0,3.3
+Physical Intelligence,π0.5 (pi-0.5),2025-04-22,3300000000.0,3.3
+Physical Intelligence,π0.6 (pi-0.6),2025-11-17,5260000000.0,5.26
+Physical Intelligence,π0.7 (pi-0.7),2026-04-16,5260000000.0,5.26
+Pinterest,TransAct,2023-05-31,92000000.0,0.092
+Playground,Playground v2.5,2024-02-27,3500000000.0,3.5
+"Prescient Design,Genentech",LBSTER,2024-05-15,67000000.0,0.067
+Prime Intellect,OpenDiLoCo 150M,2024-07-10,150000000.0,0.15
+Prime Intellect,OpenDiLoCo 1.1B,2024-07-10,1100000000.0,1.1
+Prime Intellect,INTELLECT-MATH,2025-01-17,7000000000.0,7.0
+Prime Intellect,INTELLECT-3,2025-11-26,106000000000.0,106.0
+"Prime Intellect,Arcee AI",Arcee Trinity Large,2026-02-19,398000000000.0,398.0
+"Prime Intellect,Hugging Face,Arcee AI",INTELLECT-1,2024-11-29,10000000000.0,10.0
+Princeton University,NetTalk (transcription),1987-06-06,18629.0,0.0
+Princeton University,NetTalk (dictionary),1987-06-06,18629.0,0.0
+Princeton University,TRIMELMext (247M),2022-05-25,247000000.00000003,0.247
+Princeton University,TRIMELMext (7M),2022-05-25,7000000.0,0.007
+Princeton University,TRIMELMlong (150M),2022-05-25,150000000.0,0.15
+"Princeton University,Alibaba",H-LSTM+wg+rcp+rcg+wp,2019-01-30,800000.0,0.001
+"Princeton University,Carnegie Mellon University (CMU)","Mamba 2, 2.7B",2024-05-31,2700000000.0,2.7
+"Princeton University,EleutherAI,University of Toronto,Vector Institute,University of Cambridge,Carnegie Mellon University (CMU),University of Washington",Llemma 7B,2023-10-16,7000000000.0,7.0
+"Princeton University,University of Toronto,Vector Institute,University of Cambridge,Carnegie Mellon University (CMU),University of Washington,EleutherAI",Llemma 34B,2023-10-16,34000000000.0,34.0
+"Princeton University,University of Virginia",SimPO,2024-11-01,9000000000.0,9.0
+PrismML,Bonsai 2 9B,2026-10-15,9410000000.0,9.41
+"Profluent Bio,California Institute of Technology",ProCALM (Uniref9B),2024-10-09,764000000.0,0.764
+"RWKV Foundation,EleutherAI,Ohio State University,University of California Santa Barbara (UCSB),Wroclaw Tech (Wrocław University of Science and Technology),Guangdong Laboratory of Artificial Intelligence and Digital Economy (Pazhou Lab),New York University (NYU),Harvard University,Contextual AI,University of Chinese Academy of Sciences,University of California Santa Cruz,Tsinghua University,University of Edinburgh,University of British Columbia (UBC),Pennsylvania State University",RWKV-5 (Eagle) 7B,2024-09-26,7520000000.0,7.52
+"RWKV Foundation,EleutherAI,Ohio State University,University of California Santa Barbara (UCSB),Wroclaw Tech (Wrocław University of Science and Technology),Guangdong Laboratory of Artificial Intelligence and Digital Economy (Pazhou Lab),New York University (NYU),Harvard University,Contextual AI,University of Chinese Academy of Sciences,University of California Santa Cruz,Tsinghua University,University of Edinburgh,University of British Columbia (UBC),Pennsylvania State University",RWKV-6 (Finch) 3B,2024-09-26,3100000000.0,3.1
+Recursion Pharmaceuticals,OpenPhenom-S/16,2024-11-05,178045568.0,0.178
+Reflection,Beam 1.0,2026-10-05,501000000000.0,501.0
+Reka AI,Reka Core,2024-04-15,67000000000.0,67.0
+Reka AI,Reka Flash,2024-04-15,21000000000.0,21.0
+Reka AI,Reka Edge,2024-04-18,7000000000.0,7.0
+Reka AI,Reka Flash 3,2025-03-10,21000000000.0,21.0
+Rhymes AI,Aria,2024-10-08,24900000000.0,24.9
+Rhymes AI,Allegro,2024-10-20,2975000000.0,2.975
+"Runway,Ludwig Maximilian University of Munich,Heidelberg University",Stable Diffusion (LDM-KL-8-G),2022-04-13,1450000000.0,1.45
+Saama,OpenBioLLM-Llama3-70B,2025-01-14,70000000000.0,70.0
+Saama,OpenBioLLM-Llama3-8B,2025-01-14,8000000000.0,8.0
+Salesforce,CodeT5-large,2022-07-05,770000000.0,0.77
+Salesforce,CodeGen-Mono 16.1B,2023-02-27,16100000000.0,16.1
+Salesforce,CodeGen2,2023-05-03,16000000000.0,16.0
+Salesforce,CodeT5+,2023-05-20,16000000000.0,16.0
+Salesforce,CodeGen2.5,2023-07-06,7000000000.0,7.0
+Salesforce,XGen-7B,2023-09-07,6700000000.0,6.7
+Salesforce,xLAM-8x22B,2024-09-06,141000000000.0,141.0
+Salesforce Research,AWD-LSTM - 3-layer LSTM (tied) + continuous cache pointer (WT2),2017-08-07,33000000.0,0.033
+Salesforce Research,AWD-LSTM - 3-layer LSTM (tied) + continuous cache pointer (PTB),2017-08-07,24000000.0,0.024
+Salesforce Research,QRNN,2018-02-01,135000000.0,0.135
+Salesforce Research,4 layer QRNN (h=2500),2018-03-22,151000000.0,0.151
+Salesforce Research,Flan T5-XXL + BLIP-2,2023-01-30,12100000000.0,12.1
+Salesforce Research,BLIP-2 (Q-Former),2023-01-30,1480000000.0,1.48
+"Salesforce Research,Columbia University,Johns Hopkins University",ProGen2-xlarge,2022-06-27,6400000000.0,6.4
+"Salesforce Research,Columbia University,Johns Hopkins University",ProGen2-base,2022-06-27,764000000.0,0.764
+"Salesforce Research,Hong Kong University of Science and Technology (HKUST),Nanyang Technological University",InstructBLIP,2023-05-11,13000000000.0,13.0
+"Salesforce Research,Stanford University",VD-LSTM+REAL Large,2016-11-04,51000000.0,0.051
+"Salesforce Research,Stanford University",ProGen,2020-03-13,1200000000.0,1.2
+"Salesforce Research,University of Washington",xGen-MM (BLIP-3),2024-08-16,4000000000.0,4.0
+"Salesforce,Nanyang Technological University",CodeT5-base,2021-11-01,220000000.0,0.22
+"SambaNova Systems, Inc",SambaLingo-Thai-Chat (7B),2024-04-08,6950000000.0,6.95
+"SambaNova Systems, Inc",SambaLingo-Thai-Chat-70B,2024-04-08,70000000000.0,70.0
+Sandia Corporation,Pattern recognition and reading by machine,1959-12-01,2625.0,0.0
+"Shanghai AI Lab,Massachusetts Institute of Technology (MIT)",HGRN 1B (WT 103),2023-11-08,1000000000.0,1.0
+"Shanghai AI Lab,Massachusetts Institute of Technology (MIT),Taptap",HGRN2 3B,2024-04-11,2900000000.0,2.9
+"Shanghai AI Lab,Massachusetts Institute of Technology (MIT),Taptap",HGRN2 1B,2024-04-11,1000000000.0,1.0
+"Shanghai AI Lab,University of Sydney,Chinese University of Hong Kong (CUHK),Shanghai Jiao Tong University,Krea AI",Lumina-Image-2.0,2025-03-27,2600000000.0,2.6
+"Shanghai Qi Zhi institute,Stanford University,Carnegie Mellon University (CMU),Tsinghua University",Robot Parkour,2023-09-12,500000.0,0.001
+Snowflake,Arctic,2024-04-24,480000000000.0,480.0
+Stanford University,ADALINE,1960-06-30,17.0,0.0
+Stanford University,Learning past tenses,1986-01-03,211600.0,0.0
+Stanford University,Adaptive Broom Balancer,1988-07-24,110.0,0.0
+Stanford University,Truck backer-upper,1989-06-18,805.0,0.0
+Stanford University,Monocular Depth Prediction,2005-12-05,1472256.0,0.001
+Stanford University,Semantic Taxonomy Induction,2006-07-07,100.0,0.0
+Stanford University,GPU DBNs,2009-06-15,100000000.0,0.1
+Stanford University,Vector Space Model,2011-06-19,255000.0,0.0
+Stanford University,MV-RNN,2012-07-12,3510255.0,0.004
+Stanford University,GloVe (6B),2014-01-01,120000000.0,0.12
+Stanford University,GloVe (32B),2014-01-01,120000000.0,0.12
+Stanford University,Fragment embedding,2014-06-21,144496000.0,0.144
+Stanford University,node2vec,2016-07-03,1280000.0,0.001
+Stanford University,rTop-k(distributed setting),2020-05-21,69000000.0,0.069
+Stanford University,S4,2021-10-31,249000000.00000003,0.249
+Stanford University,Alpaca,2023-03-13,7000000000.0,7.0
+Stanford University,minChatGPT,2023-03-24,1639000000.0,1.639
+Stanford University,Agent Q,2024-08-13,70000000000.0,70.0
+"Stanford University,CZ Biohub Network",DPO on Pythia-2.8B,2023-05-29,2800000000.0,2.8
+"Stanford University,California Institute of Technology",Innervator,1989-12-01,10.0,0.0
+"Stanford University,Facebook AI Research",Base LM + kNN LM + Continuous Cache,2019-11-01,247000000.00000003,0.247
+"Stanford University,Google Research,Georgia Institute of Technology",W.A.L.T,2023-12-11,4719000000.0,4.719
+"Stanford University,Google,Google Brain",ELECTRA,2020-03-23,335000000.0,0.335
+"Stanford University,Harvard University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal",HyenaDNA,2023-06-27,6600000.0,0.007
+"Stanford University,Microsoft,Georgia Institute of Technology",CollabLLM,2025-06-12,8000000000.0,8.0
+"Stanford University,Princeton University",GPT3-2.7B (FlashAttention-2),2023-07-18,2700000000.0,2.7
+"Stanford University,Salesforce Research",VD-LSTM+REAL Medium,2016-11-04,22100000.0,0.022
+"Stanford University,Salesforce Research",VD-LSTM+REAL Small,2016-11-04,6800000.0,0.007
+"Stanford University,SambaNova Systems, Inc,Peking University,Adobe,University at Buffalo",GPT-2-Medium+Pixelfly,2021-11-30,202999999.99999997,0.203
+"Stanford University,SambaNova Systems, Inc,Peking University,Adobe,University at Buffalo",GPT-2-Small+Pixelfly,2021-11-30,68000000.0,0.068
+"Stanford University,University at Buffalo",GPT-2 Medium (FlashAttention),2022-05-27,355000000.0,0.355
+"Stanford University,University at Buffalo",Hybrid H3-2.7B,2022-12-28,2700000000.0,2.7
+"Stanford University,University at Buffalo",Hybrid H3-125M,2022-12-28,125000000.0,0.125
+"Stanford University,University at Buffalo",Hybrid H3-355M,2022-12-28,355000000.0,0.355
+"Stanford University,University at Buffalo",Hybrid H3-1.3B,2022-12-28,1300000000.0,1.3
+"Stanford University,University at Buffalo,University of Michigan",Monarch-GPT-2-Medium,2022-04-01,165000000.0,0.165
+"Stanford University,University at Buffalo,University of Michigan",Monarch-GPT-2-Small,2022-04-01,72000000.0,0.072
+"Stanford University,University of California (UC) Berkeley,Together",Evo,2024-02-27,7000000000.0,7.0
+"Stanford University,University of California (UC) Berkeley,Toyota Research Institute,Google DeepMind,Massachusetts Institute of Technology (MIT),Physical Intelligence",OpenVLA,2024-06-13,7188100000.0,7.188
+"Stanford University,University of Montreal / Université de Montréal,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",Hyena-3-slim,2023-02-21,125000000.0,0.125
+"Stanford University,University of Montreal / Université de Montréal,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",Hyena 1.3B,2023-02-21,1300000000.0,1.3
+"Stanford University,University of Montreal / Université de Montréal,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",Hyena-2 355M,2023-02-21,355000000.0,0.355
+"Stanford University,University of Montreal / Université de Montréal,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",Hyena-2 153M,2023-02-21,153000000.0,0.153
+"Stanford University,University of Washington,Allen Institute for AI,Contextual AI",s1,2025-01-14,32000000000.0,32.0
+"Stanford University,University of Washington,Allen Institute for AI,Contextual AI",s1-32B,2025-01-31,32000000000.0,32.0
+"Stanford University,University of Washington,Allen Institute for AI,Contextual AI",s1.1,2025-01-31,32000000000.0,32.0
+"Sun Yat-sen University,University of California Irvine,Guangdong Provincial People's Hospital,Guangdong Academy of Medical Sciences",DeepTX,2024-07-12,2176.0,0.0
+Suno,Suno Bark Model,2023-04-15,300000000.0,0.3
+"Technical University of Munich,Columbia University",Ankh_large,2023-01-16,1900000000.0,1.9
+"Technical University of Munich,Columbia University",Ankh_base,2023-01-16,740000000.0,0.74
+"Technical University of Munich,Massachusetts Institute of Technology (MIT)",DiffDock-PP,2023-04-08,1620000.0,0.002
+"Technical University of Munich,Med AI Technology,Nvidia,Oak Ridge National Laboratory,Google,Seoul National University",ProtT5-XXL,2021-05-04,11000000000.0,11.0
+"Technical University of Munich,Med AI Technology,Nvidia,Oak Ridge National Laboratory,Google,Seoul National University",ProtT5-XXL-BFD,2021-05-04,11000000000.0,11.0
+"Technical University of Munich,Med AI Technology,Nvidia,Oak Ridge National Laboratory,Google,Seoul National University",ProtT5-XL-U50,2021-05-04,3000000000.0,3.0
+"Technical University of Munich,Nvidia,Seoul National University,Google,Oak Ridge National Laboratory,Med AI Technology",ProtBERT-BFD,2021-05-04,420000000.0,0.42
+"Technical University of Munich,Nvidia,Seoul National University,Google,Oak Ridge National Laboratory,Med AI Technology",ProtBERT-UniRef,2021-05-04,420000000.0,0.42
+"Technical University of Munich,Seoul National University,Institute for Advanced Study,TUM School of Life Sciences Weihenstephan",ProstT5,2024-03-24,3000000000.0,3.0
+"Technical University of Munich,Sorbonne University,Institute for Advanced Study,Université Paris Cité,Institut Universitaire de France (IUF)",VespaG,2024-09-09,660000.0,0.001
+"Technion - Israel Institute of Technology,Columbia University,University of Montreal / Université de Montréal",Binarized Neural Network (MNIST),2016-03-17,37000000.0,0.037
+"Technion - Israel Institute of Technology,Facebook AI Research",code2seq,2019-02-21,37000000.0,0.037
+"Technische Hochschule Ingolstadt,University of Montreal / Université de Montréal,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Polytechnique Montreal,Wand Technologies",Wuerstchen,2023-09-29,1000000000.0,1.0
+"Tel Aviv University,University of Washington,Intel Labs,Meta AI",NoPos,2022-03-30,1300000000.0,1.3
+"The University of Hong Kong,Harvard Medical School",EPInformer,2024-08-01,447149.0,0.0
+Thinking Machines,TML-Interaction-Small,2026-05-11,276000000000.0,276.0
+Thinking Machines,Inkling,2026-07-15,975000000000.0,975.0
+Thinking Machines,Inkling-Small,2026-07-30,276000000000.0,276.0
+Thinking Machines,Inkling 2 Small,2026-11-05,594000000000.0,594.0
+Together,Pythia-Chat-Base-7B-v0.16,2023-03-08,7000000000.0,7.0
+Together,RedPajama-INCITE-7B-Base,2023-06-06,6900000000.0,6.9
+"Together,Nous Research",StripedHyena-Hessian-7B,2023-11-27,7000000000.0,7.0
+Toyota Technological Institute at Chicago,HSO,2021-12-16,345000000.0,0.345
+"Toyota Technological Institute at Chicago,Google",ALBERT-xxlarge,2020-02-09,235000000.0,0.235
+"Toyota Technological Institute at Chicago,Google Research",ALBERT,2019-09-26,18000000.0,0.018
+"Toyota Technological Institute at Chicago,University of Chicago",Transformer+Recurrent Windows of Context,2020-08-16,124000000.0,0.124
+Trend Micro,Llama-Primus-Nemotron-70B,2025-04-21,70000000000.0,70.0
+"Tsinghua University,Apple,Westlake University,Chinese University of Hong Kong (CUHK)",DITTO,2022-06-06,750000000.0,0.75
+"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI,Massachusetts Institute of Technology (MIT)",GLM-2B,2021-03-18,2000000000.0,2.0
+"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI,Massachusetts Institute of Technology (MIT)",GLM-10B-bidirectional,2021-03-18,10000000000.0,10.0
+"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI,Massachusetts Institute of Technology (MIT)",GLM-10B-unidirectional,2021-03-18,10000000000.0,10.0
+"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI,Massachusetts Institute of Technology (MIT),Shanghai Qi Zhi institute",GLM-10B,2021-03-18,10000000000.0,10.0
+"Tsinghua University,Facebook AI Research,Cornell University",DenseNet-264,2016-08-25,34000000.0,0.034
+"Tsinghua University,Facebook AI Research,Cornell University",DenseNet201,2018-01-28,20000000.0,0.02
+"Tsinghua University,International Digital Economy Academy,Hong Kong University of Science and Technology (HKUST),Chinese University of Hong Kong (CUHK),Microsoft Research,South China University of Technology",Grounding Dino L,2024-07-19,341000000.0,0.341
+"Tsinghua University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),HEC,CIFAR AI Research,Princeton University,University of Montreal / Université de Montréal",KEPLER,2020-11-23,125000000.0,0.125
+"Tsinghua University,Stanford University,Nvidia",2-layer-LSTM+Deep-Gradient-Compression,2017-12-05,6020000.0,0.006
+"Tsinghua University,University of California (UC) Berkeley",Adversarial Joint Adaptation Network (ResNet),2017-08-17,60000000.0,0.06
+"Tsinghua University,University of California Los Angeles (UCLA)",RGC+ASQ (WT2),2018-08-13,209000000.0,0.209
+"Tsinghua University,University of California Los Angeles (UCLA)",RGC+ASQ (PTB),2018-08-13,53477376.0,0.053
+"Tsinghua University,University of Illinois Urbana-Champaign (UIUC),Shanghai AI Lab,Peking University,Shanghai Jiao Tong University,CUHK Shenzhen Research Institute",Eurus-2-7B-PRIME,2025-01-02,7000000000.0,7.0
+"UC Davis,Westlake University,Facebook AI",Memformer (4 encoder + 16 decoder),2020-10-14,76200000.0,0.076
+UC Irvine,LRR-4X,2016-05-08,138000000.0,0.138
+"UT Austin,University of Massachusetts Lowell,University of California (UC) Berkeley",LRCN,2014-11-07,142552000.0,0.143
+Ultralytics,YOLOv8x,2024-01-10,68200000.0,0.068
+"Universite de Technologie de Compiègne – CNRS,Google",TransE,2013-12-05,942000000.0,0.942
+"University College London (UCL),University of Michigan,Google Brain",Phenaki,2022-10-05,1800000000.0,1.8
+"University of Amsterdam,OpenAI,University of Toronto",ADAM (CIFAR-10),2014-12-22,2370000.0,0.002
+University of California (UC) Berkeley,R-CNN (T-net),2013-11-11,69003872.0,0.069
+University of California (UC) Berkeley,TRPO,2015-02-19,33500.0,0.0
+University of California (UC) Berkeley,Tensor-Transformer(1core)+PN (WT103),2020-03-17,85300000.0,0.085
+University of California (UC) Berkeley,CURL,2020-04-08,907264.0,0.001
+University of California (UC) Berkeley,SqueezeBERT,2020-06-10,51100000.0,0.051
+University of California (UC) Berkeley,Denoising Diffusion Probabilistic Models (LSUN Bedroom),2021-06-11,256000000.0,0.256
+University of California (UC) Berkeley,GPT-2 (AMPS),2021-11-08,1500000.0,0.002
+University of California (UC) Berkeley,Starling-LM-7B-alpha,2023-11-25,7000000000.0,7.0
+University of California (UC) Berkeley,Humanoid Locomotion,2024-02-29,8000000.0,0.008
+"University of California (UC) Berkeley,Covariant",Flow++ (CIFAR10),2019-05-15,31400000.0,0.031
+"University of California (UC) Berkeley,Covariant,Google,Chan Zuckerberg Initiative",TAPE Transformer,2019-06-19,38000000.0,0.038
+"University of California (UC) Berkeley,Stanford University,Carnegie Mellon University (CMU),DeepMind",Octo-Base,2024-05-20,93000000.0,0.093
+"University of California (UC) Berkeley,Stanford University,Carnegie Mellon University (CMU),DeepMind",Octo-Small,2024-05-20,27000000.0,0.027
+"University of California (UC) Berkeley,Toyota Technological Institute at Chicago",GELU for CIFAR-10,2023-06-06,9888.0,0.0
+"University of California (UC) Berkeley,University of Illinois Urbana-Champaign (UIUC),Google DeepMind",DigiRL,2024-06-14,1300000000.0,1.3
+University of California Los Angeles (UCLA),Diffractive Deep Neural Network,2018-04-14,8000000000.0,8.0
+University of California Los Angeles (UCLA),TPM-LVD,2022-10-10,1120000000.0,1.12
+"University of California Los Angeles (UCLA),Columbia University,New York University (NYU)",FinGPT-13B,2023-10-07,13000000000.0,13.0
+"University of California Los Angeles (UCLA),JD.com",TransformerXL + spectrum control,2020-03-11,151000000.0,0.151
+"University of California Los Angeles (UCLA),University of Utah",FMMformer (2-kernel fast weight + Band20),2021-08-05,40000000.0,0.04
+University of California San Diego,MEGNet (molecule model),2019-04-10,8720.0,0.0
+University of California San Diego,MEGNet (crystal formation energy model),2019-04-10,26128.0,0.0
+University of California San Diego,MEGNet (crystal band gap model),2019-04-10,26128.0,0.0
+University of California San Diego,MEGNet (crystal elasticity model),2019-04-10,26128.0,0.0
+University of California San Diego,GPT-2 (fine-tuned with HYDRA),2021-10-16,1540000000.0,1.54
+"University of California San Diego,Beihang University,Microsoft",Theseus 6/768,2020-02-07,66000000.0,0.066
+"University of California San Diego,BioMap Research,The Scripps Research Institute,Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",ProteinChat,2024-10-10,14000000000.0,14.0
+"University of California San Diego,Carnegie Mellon University (CMU)",MLP with back-propagation,1986-10-01,720.0,0.0
+"University of California San Diego,Facebook",ResNeXt-50,2016-11-16,25000000.0,0.025
+"University of California San Diego,Facebook",ResNeXt-101 (64×4d),2016-11-16,83000000.0,0.083
+"University of California San Diego,Sun Yat-sen University,Microsoft Research Asia",Baize-v2-13B (白泽),2023-12-02,13000000000.0,13.0
+"University of California Santa Barbara (UCSB),University of Lincoln,Chinese Academy of Agricultural Sciences,Swedish University of Agricultural Sciences",PLLaMa,2024-01-03,13000000000.0,13.0
+"University of Chicago,Nvidia,Harvard University,Cerebras Systems,Technical University of Munich,California Institute of Technology",GenSLM,2022-10-11,25000000000.0,25.0
+"University of Chinese Academy of Sciences,Microsoft Research",BitNet b1.58,2024-02-27,70000000000.0,70.0
+University of Delaware,SYNTERACT,2023-06-09,420000000.0,0.42
+"University of Edinburgh,Toyota Technological Institute at Chicago",Byte-mLSTM+emb+WN+VD,2016-09-26,46000000.0,0.046
+"University of Florida,Sichuan University,Shihezi University,University of Macau,University of Texas Health Science Center",AntiFormer,2024-08-20,24670596.0,0.025
+"University of Florida,University of Texas Health Science Center,H. Lee Moffitt Cancer Center and Research Institute",DrugFormer,2024-08-29,21660193.0,0.022
+"University of Illinois Urbana-Champaign (UIUC),NEC Laboratories,Rutgers University",Super-vector coding,2010-01-01,1025.0,0.0
+"University of Illinois Urbana-Champaign (UIUC),Reed College",ProBERTa,2020-09-01,44000000.0,0.044
+University of Kansas,Piecewise linear model,1973-11-01,357.0,0.0
+University of Maryland,Hiero,2005-06-01,120000000.0,0.12
+University of Maryland,Domain Adaptation,2011-11-06,15260.0,0.0
+"University of Maryland,Microsoft",MiniGPT4 + LRV-Instruction,2024-03-19,7000000000.0,7.0
+"University of Maryland,Rutgers University",DCNN,2015-08-07,5006000.0,0.005
+University of Massachusetts Amherst,ASE+ACE,1983-09-01,324.0,0.0
+University of Massachusetts Amherst,Transformer-C,2021-04-08,148000000.0,0.148
+University of Massachusetts Amherst,retrieval-quality-kNN-LMs,2022-10-28,247000000.00000003,0.247
+"University of Minnesota,Grammarly",CoEdiT-xxl,2023-05-17,11000000000.0,11.0
+"University of Missouri,Politecnico di Milano",Prot2Token,2024-06-03,650000000.0,0.65
+University of Notre Dame,RNS-RNN,2021-09-05,5751892.0,0.006
+University of Notre Dame,VRNS-RNN-3-3-5,2022-10-04,1500000.0,0.002
+"University of Oxford,Harvard Medical School,Cohere",Tranception,2022-05-27,700000000.0,0.7
+"University of Oxford,Massachusetts Institute of Technology (MIT),Microsoft Research AI for Science",Improved motif-scaffolding with SE(3) flow matching,2024-01-08,16800000.0,0.017
+"University of Pittsburgh,Duke University",AlexNet + coordinating filters,2017-03-28,60000000.0,0.06
+"University of San Francisco,Insight Centre NUI Galway,Fast.ai",ULM-FiT,2018-01-18,441000000.0,0.441
+"University of Science and Technology of China (USTC),Hefei Comprehensive National Science Center,Harvard University,Broad Institute,Harvard Data Science Initiative",PocketGen,2024-09-23,7900000.0,0.008
+University of Southern California,Phrase-based translation,2003-05-01,9178890.0,0.009
+University of Southern California,3DMM-CNN,2016-12-15,44500000.0,0.044
+University of Southern California,LSTM-Large+Behaviorial-Gating,2019-08-31,67000000.0,0.067
+University of Southern California,AWD-LSTM+Behaviorial-Gating,2019-08-31,27000000.0,0.027
+University of Southern California,LSTM-Medium+Behaviorial-Gating (PTB),2019-08-31,20000000.0,0.02
+"University of Southern California,Georgia Institute of Technology,Stanford University,Nvidia",STORM-B/8,2024-12-31,100598707.0,0.101
+"University of Southern California,Google",TOME,2021-10-12,220000000.0,0.22
+University of Texas at Austin,LISSOM,1995-11-27,432800.0,0.0
+University of Texas at Austin,HyperNEAT,2014-03-05,239712.0,0.0
+University of Texas at Austin,AWD-LSTM + MoS + Partial Shuffled,2019-06-10,35000000.0,0.035
+"University of Toronto,Reverie Labs,DeepChem",ChemBERTa,2020-10-23,125000000.0,0.125
+"University of Turku,Hugging Face",BLUUMI,2023-11-03,176000000000.0,176.0
+University of Virginia,DeepUrfold,2024-09-16,110000000.0,0.11
+University of Washington,Speaker-independent vowel classification,1989-11-27,3040.0,0.0
+University of Washington,YOLOv3,2018-04-08,56933216.0,0.057
+University of Washington,DOC + Finetune∗ + Partial Shuffle (WT2),2019-03-11,67300000.0,0.067
+University of Washington,Grover-Mega,2019-05-29,1500000000.0,1.5
+University of Washington,Transformer-XL DeFINE (107M),2019-11-27,107370000.0,0.107
+University of Washington,Adaptive LSTM + DeFINE,2019-11-27,48690000.0,0.049
+University of Washington,AWD-LSTM + DeFINE,2019-11-27,20000000.0,0.02
+University of Washington,Guanaco-65B,2023-05-23,65000000000.0,65.0
+"University of Washington,Allen Institute for AI",BIDAF,2016-11-05,2600000.0,0.003
+"University of Washington,Allen Institute for AI",YOLOv2,2016-12-25,51000000.0,0.051
+"University of Washington,Allen Institute for AI",ELMo,2018-02-01,94000000.0,0.094
+"University of Washington,Allen Institute for AI",Transformer-XL DeFINE (141M),2019-11-27,141000000.0,0.141
+"University of Washington,Allen Institute for AI,Facebook AI Research",YOLO,2015-06-08,271684800.0,0.272
+"University of Washington,Allen Institute for AI,Facebook AI Research",DeLighT,2020-08-03,99000000.0,0.099
+"University of Washington,Arizona State University,Allen Institute for AI",Tk-Instruct,2022-10-24,11000000000.0,11.0
+"University of Washington,Columbia University,Google,Meta AI,Tel Aviv University",ViT-G (model soup),2022-03-10,1843000000.0,1.843
+"University of Washington,DeepMind,Allen Institute for AI,Hebrew University of Jerusalem,The University of Hong Kong",RFA-GATE-Gaussian-Stateful Big,2021-03-03,242000000.0,0.242
+"University of Washington,Facebook AI Research,Allen Institute for AI",Shortformer,2020-12-31,247000000.0,0.247
+"University of Washington,Facebook AI Research,Allen Institute for AI","ALiBi (L=3072, Lvalid = 3072)",2021-08-27,1300000000.0,1.3
+"University of Washington,Microsoft",HJRSS,2021-09-01,16000000.0,0.016
+"University of Washington,Microsoft Research",WDC20 / DLWP,2020-03-15,672080.0,0.001
+"University of Washington,Microsoft Research",DLWP,2021-02-09,2676376.0,0.003
+"University of Washington,Microsoft,DeepMind",T2R 75% + Pretrain (WT-103),2021-03-24,668893184.0,0.669
+"University of Washington,Microsoft,DeepMind",T2R + Pretrain,2021-03-24,668893184.0,0.669
+"University of Washington,Microsoft,DeepMind,Allen Institute for AI",T2R + Random Init,2021-03-24,450000000.0,0.45
+"University of Washington,National Institute of Informatics",LUKE,2020-10-02,483000000.0,0.483
+"University of Washington,Stanford University,Allen Institute for AI,Hebrew University of Jerusalem,Columbia University,Google DeepMind,University of California Santa Barbara (UCSB),Research Center Juelich",OpenFlamingo,2023-08-02,9000000000.0,9.0
+"University of Waterloo,Microsoft Research",Transformer Large + HCP,2022-03-21,256999999.99999997,0.257
+"University of Wisconsin Madison,ByteDance,Nanyang Technological University,University of California (UC) Berkeley",LLaVA-NeXT-34B (LLaVA-1.6),2024-01-30,34750000000.0,34.75
+"University of Wisconsin Madison,Microsoft Research",LLaVA 1.5,2023-11-05,13000000000.0,13.0
+"University of Wisconsin Madison,Microsoft Research,Columbia University",LLaVA,2023-04-17,13000000000.0,13.0
+"University of Wisconsin Madison,Morgridge Institute for Research",METL-Global,2024-04-17,50000000.0,0.05
+"Westlake University,Institute for Advanced Study,McGill University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),CIFAR AI Research,University of Montreal / Université de Montréal",ONLSTM-SYD,2020-05-12,25000000.0,0.025
+"Wolfram Research,ASC27,Newport High School,Sanskriti School",PLAPT,2024-02-12,1474624.0,0.001
+Writer,Palmyra Large 20B,2023-03-01,20000000000.0,20.0
+Writer,Palmyra X 003,2024-01-01,72000000000.0,72.0
+Writer,Palmyra Fin,2024-07-24,70000000000.0,70.0
+Writer,Palmyra Med,2024-07-24,70000000000.0,70.0
+Writer,Palmyra X 004,2024-10-09,150000000000.0,150.0
+"Wuhan University,JD Explore Academy,Shanghai AI Lab,Nanyang Technological University,Washington University in St Louis,Chongqing University of Posts and Telecommunications,University of Sydney",Vega v2,2022-12-04,6000000000.0,6.0
+X-Mechanics,FNetAR Medium,2021-07-22,34300000.0,0.034
+YDS Pharmatech,FragLlama,2024-09-30,779000000.0,0.779
+"Yale School of Medicine,University of Florida,University of Texas Health Science Center",Me Llama 70B,2024-02-20,70000000000.0,70.0
+"Yale School of Medicine,University of Florida,University of Texas Health Science Center",Me Llama 13B,2024-02-20,13000000000.0,13.0
+"Zhejiang University (ZJU),Microsoft Research",FastSpeech,2019-11-20,30100000.0,0.03
+Zyphra,Zamba2-7B,2024-05-26,7000000000.0,7.0
+Zyphra,Zonos-v0.1,2025-02-10,1600000000.0,1.6
+xAI,Grok-1,2023-11-04,314000000000.0,314.0
+xAI,Grok-0,2023-11-04,33000000000.0,33.0
+xAI,Grok 3,2025-02-17,3000000000000.0,3000.0
+xAI,Grok 4,2025-07-09,3000000000000.0,3000.0
+xAI,Grok 4.20,2026-02-17,500000000000.0,500.0
+xAI,Grok 4.3 Beta,2026-04-17,500000000000.0,500.0
+xAI,Grok 4.5,2026-07-08,1500000000000.0,1500.0
+xAI,Grok 4.6,2026-08-12,1500000000000.0,1500.0
+xAI,Grok 4.7,2026-09-21,2100000000000.0,2100.0
